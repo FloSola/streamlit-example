@@ -1,0 +1,881 @@
+Joueur,Poste,prediction_label,Cote,Enchère moy,Club,Championnat
+March Solly,MO,8.534279,12.0,16.0,Brighton,Premiere League
+Mitoma Kaoru,MO,7.7961435,10.0,14.0,Brighton,Premiere League
+Højbjerg Pierre-Emile,MD,7.7583413,27.0,36.0,Tottenham,Premiere League
+Cornette Quentin,MO,7.7109303,16.0,26.0,Havre AC,Ligue 2
+Diatta Krépin,MO,7.4180474,11.0,12.0,AS Monaco,Ligue 1
+Casemiro,MD,7.383676,17.0,26.0,Man. United,Premiere League
+Daniel Podence,MO,7.260645,12.0,16.0,Wolverhampton,Premiere League
+Chirivella Pedro,MD,7.160428,13.0,15.0,FC Nantes,Ligue 1
+Jallow Ablie,MO,7.13187,13.0,19.0,FC Metz,Ligue 2
+Lucas Paquetá,MO,7.107706,12.0,17.0,West Ham,Premiere League
+Blas Ludovic,MO,7.0864124,27.0,32.0,FC Nantes,Ligue 1
+Palaversa Ante,MD,7.055981,1.0,4.0,Troyes,Ligue 1
+Boufal Sofiane,MO,7.04265,19.0,24.0,Angers SCO,Ligue 1
+Kashi Ahmed,MD,7.002533,12.0,15.0,FC Annecy,Ligue 2
+Brahimi Bilal,MO,6.986536,12.0,21.0,SM Caen,Ligue 2
+Terrier Martin,MO,6.9606414,5.0,64.0,Rennes,Ligue 1
+Caicedo Moisés,MD,6.933767,15.0,19.0,Brighton,Premiere League
+Ward-Prowse James,MO,6.918346,22.0,30.0,Southampton,Premiere League
+Frattesi Davide,MD,6.885638,23.0,30.0,Sassuolo,Serie A
+Doumbia Moussa,MO,6.8699737,15.0,24.0,Sochaux,Ligue 2
+Gibbs-White Morgan,MO,6.866949,14.0,16.0,Nottingham Forest,Premiere League
+Zambo Anguissa André-Frank,MD,6.8356905,17.0,26.0,Napoli,Serie A
+Son Heung-Min,MO,6.831511,37.0,56.0,Tottenham,Premiere League
+Freuler Remo,MD,6.8168178,11.0,12.0,Nottingham Forest,Premiere League
+Frankowski Przemyslaw,MO,6.7982597,17.0,20.0,RC Lens,Ligue 1
+Berthomier Jason,MO,6.7915606,11.0,17.0,Valenciennes,Ligue 2
+Grealish Jack,MO,6.762359,15.0,20.0,Man. City,Premiere League
+Anthony Jaidon,MO,6.754595,12.0,12.0,Bournemouth,Premiere League
+Skipp Oliver,MD,6.6813025,8.0,8.0,Tottenham,Premiere League
+Bruno Fernandes,MO,6.672033,37.0,52.0,Man. United,Premiere League
+Gündogan Ilkay,MD,6.657855,23.0,31.0,Man. City,Premiere League
+Rashani Elbasan,MO,6.6353574,12.0,13.0,Clermont,Ligue 1
+Ilic Ivan,MD,6.612701,6.0,7.0,Verona,Serie A
+Perisic Ivan,MO,6.598341,11.0,15.0,Tottenham,Premiere League
+Boudaoui Hicham,MO,6.5841374,11.0,11.0,OGC Nice,Ligue 1
+El Shaarawy Stephan,MO,6.5839725,10.0,11.0,Roma,Serie A
+Eriksen Christian,MO,6.5709796,14.0,19.0,Man. United,Premiere League
+Xhaka Granit,MD,6.5522738,17.0,23.0,Arsenal,Premiere League
+João Palhinha,MD,6.544041,15.0,20.0,Fulham,Premiere League
+João Moutinho,DL,6.5399084,7.0,8.0,Spezia,Serie A
+Veretout Jordan,MD,6.529034,15.0,17.0,OM,Ligue 1
+Jensen Mathias,MD,6.526457,13.0,15.0,Brentford,Premiere League
+Prcic Sanjin,MD,6.5103984,13.0,14.0,Strasbourg,Ligue 1
+Méndez Brais,MO,6.4965024,27.0,46.0,Real Sociedad,Liga
+Di María Ángel,MO,6.484699,9.0,17.0,Juventus,Serie A
+Bobichon Antonin,MO,6.468521,9.0,9.0,Laval,Ligue 2
+Kroos Toni,MD,6.4423566,32.0,39.0,Real Madrid,Liga
+Ricci Samuele,MD,6.43376,12.0,14.0,Torino,Serie A
+Tielemans Youri,MO,6.4219503,23.0,31.0,Leicester,Premiere League
+Longstaff Sean,MD,6.419124,12.0,16.0,Newcastle,Premiere League
+Lekhal Victor,MD,6.3758607,22.0,37.0,Havre AC,Ligue 2
+Lazovic Darko,MO,6.3713465,8.0,10.0,Verona,Serie A
+Aholou Jean-Eudes,MD,6.3683505,10.0,10.0,Strasbourg,Ligue 1
+Lees-Melou Pierre,MO,6.359978,14.0,15.0,Brest,Ligue 1
+de Jong Frenkie,MD,6.3486986,27.0,36.0,Barcelona,Liga
+de Roon Marten,MD,6.340555,15.0,21.0,Atalanta,Serie A
+Bambock Franck-Yves,MD,6.3390613,14.0,16.0,Grenoble,Ligue 2
+Miranchuk Aleksey,MO,6.337458,11.0,15.0,Torino,Serie A
+Onana Amadou,MD,6.327382,13.0,15.0,Everton,Premiere League
+Fransérgio,MO,6.32666,13.0,18.0,Bordeaux,Ligue 2
+Bentaleb Nabil,MD,6.32031,17.0,19.0,Angers SCO,Ligue 1
+Mauricio Tony,MO,6.305466,23.0,34.0,Sochaux,Ligue 2
+M'Bock Hianga'a,MD,6.297894,9.0,9.0,SM Caen,Ligue 2
+Guendouzi Mattéo,MD,6.279157,19.0,24.0,OM,Ligue 1
+Kamara Boubacar,MD,6.278589,11.0,13.0,Aston Villa,Premiere League
+Jacob Valentin,MO,6.276568,14.0,20.0,Dijon FCO,Ligue 2
+Kvaratskhelia Khvicha,MO,6.261459,21.0,55.0,Napoli,Serie A
+Pedri,MO,6.238409,27.0,42.0,Barcelona,Liga
+Jorginho,MD,6.236729,19.0,24.0,Chelsea,Premiere League
+Maggiotti Julien,MD,6.2329745,23.0,37.0,Laval,Ligue 2
+Ünder Cengiz,MO,6.2307143,15.0,18.0,OM,Ligue 1
+Jean Jacques Danley,MD,6.2119317,10.0,11.0,FC Metz,Ligue 2
+Boga Jérémie,MO,6.196439,9.0,12.0,Atalanta,Serie A
+Magnetti Hugo,MD,6.1961145,12.0,13.0,Brest,Ligue 1
+Aboukhlal Zakaria,MO,6.1852803,12.0,16.0,Toulouse FC,Ligue 1
+Zaccagni Mattia,MO,6.182605,24.0,37.0,Lazio,Serie A
+García Aleix,MO,6.165286,16.0,19.0,Girona,Liga
+Valverde Federico,MD,6.1648197,24.0,45.0,Real Madrid,Liga
+Adams Tyler,MD,6.1567936,11.0,11.0,Leeds,Premiere League
+Sissoko Moussa,MD,6.1429644,11.0,13.0,FC Nantes,Ligue 1
+van den Boomen Branco,MO,6.137668,22.0,26.0,Toulouse FC,Ligue 1
+André Benjamin,MD,6.1276503,18.0,22.0,LOSC,Ligue 1
+Camara Idrissa,MO,6.0960565,7.0,8.0,Dijon FCO,Ligue 2
+Zielinski Piotr,MO,6.0805,24.0,35.0,Napoli,Serie A
+Ziyech Hakim,MO,6.0616655,8.0,11.0,Chelsea,Premiere League
+Buendía Emiliano,MO,6.058286,14.0,17.0,Aston Villa,Premiere League
+Golovin Aleksandr,MO,6.0580487,20.0,26.0,AS Monaco,Ligue 1
+Majer Lovro,MO,6.0550437,20.0,25.0,Rennes,Ligue 1
+Deminguet Jessy,MO,6.0475082,16.0,22.0,SM Caen,Ligue 2
+Lobotka Stanislav,MD,6.045931,19.0,27.0,Napoli,Serie A
+Honorat Franck,MO,6.037685,22.0,26.0,Brest,Ligue 1
+Danilo,MO,6.029889,5.0,5.0,Nottingham Forest,Premiere League
+Ruiz-Atil Kays,MD,6.029889,1.0,1.0,AJ Auxerre,Ligue 1
+Olasagasti Jon Ander,MD,6.029889,1.0,1.0,Real Sociedad,Liga
+Ramsey Jacob,MO,6.0266423,16.0,18.0,Aston Villa,Premiere League
+Gomes Angel,MO,6.0179014,15.0,17.0,LOSC,Ligue 1
+Matheus Nunes,MD,6.016869,11.0,14.0,Wolverhampton,Premiere League
+Moi Gómez,MO,6.006481,15.0,19.0,Osasuna,Liga
+Daubin Quentin,MD,6.000448,12.0,14.0,SM Caen,Ligue 2
+Garnacho Alejandro,MO,5.991759,6.0,8.0,Man. United,Premiere League
+Flips Alexis,MO,5.9889054,15.0,16.0,Reims,Ligue 1
+Matusiwa Azor,MD,5.977363,14.0,15.0,Reims,Ligue 1
+Pellegrini Lorenzo,MO,5.972848,30.0,40.0,Roma,Serie A
+De Bruyne Kevin,MO,5.9580345,45.0,68.0,Man. City,Premiere League
+Khaoui Saîf-Eddine,MO,5.944698,14.0,15.0,Clermont,Ligue 1
+Kechta Yassine,MD,5.940086,11.0,15.0,Havre AC,Ligue 2
+Reed Harrison,MD,5.934321,15.0,18.0,Fulham,Premiere League
+Fofana Youssouf,MD,5.9172125,13.0,18.0,AS Monaco,Ligue 1
+Fagioli Nicolò,MO,5.9147315,11.0,13.0,Juventus,Serie A
+Partey Thomas,MD,5.895494,19.0,26.0,Arsenal,Premiere League
+Rodri,MD,5.8938923,28.0,38.0,Man. City,Premiere League
+Mount Mason,MO,5.8914003,22.0,30.0,Chelsea,Premiere League
+Cabella Rémy,MO,5.8906474,19.0,28.0,LOSC,Ligue 1
+Maïga Habib,MD,5.890467,14.0,20.0,FC Metz,Ligue 2
+Merino Mikel,MD,5.8890066,18.0,24.0,Real Sociedad,Liga
+Bouchouari Benjamin,MD,5.887594,9.0,10.0,Saint-Étienne,Ligue 2
+Pajot Vincent,MD,5.883015,13.0,16.0,FC Annecy,Ligue 2
+Pessina Matteo,MO,5.880965,15.0,18.0,Monza,Serie A
+Busquets Sergio,MD,5.880092,22.0,27.0,Barcelona,Liga
+Milinkovic-Savic Sergej,MO,5.876864,30.0,43.0,Lazio,Serie A
+Bamba Jonathan,MO,5.866973,20.0,29.0,LOSC,Ligue 1
+Bennacer Ismaël,MD,5.865831,17.0,23.0,Milan,Serie A
+Sancet Oihan,MO,5.85491,18.0,26.0,Athletic,Liga
+Rodríguez Guido,MO,5.8548794,16.0,19.0,Betis,Liga
+Ducrocq Tom,MD,5.851917,13.0,17.0,SC Bastia,Ligue 2
+Thuram Khéphren,MD,5.8495336,13.0,17.0,OGC Nice,Ligue 1
+Saivet Henri,MO,5.842113,16.0,24.0,Pau FC,Ligue 2
+Fofana Seko,MD,5.8389454,29.0,37.0,RC Lens,Ligue 1
+Ugochukwu Lesley,MD,5.828396,9.0,10.0,Rennes,Ligue 1
+Parejo Daniel,MO,5.8261404,23.0,30.0,Villarreal,Liga
+Nassi Walid,MO,5.824657,7.0,7.0,Dijon FCO,Ligue 2
+Sanna Sam,MD,5.8171782,10.0,17.0,Laval,Ligue 2
+Valério Antoine,MO,5.8130417,8.0,9.0,Rodez AF,Ligue 2
+Álvaro García,MO,5.8098927,23.0,29.0,Rayo Vallecano,Liga
+Gaudin Jules,MO,5.802701,9.0,12.0,Guingamp,Ligue 2
+Camara Mahdi,MD,5.8008504,10.0,11.0,Brest,Ligue 1
+Moueffek Aïmen,MD,5.7979326,7.0,9.0,Saint-Étienne,Ligue 2
+Masson Julien,MD,5.7960024,5.0,8.0,Valenciennes,Ligue 2
+Machín José,MD,5.7954946,4.0,4.0,Monza,Serie A
+Cataldi Danilo,MD,5.7854557,14.0,16.0,Lazio,Serie A
+Elmas Eljif,MO,5.7822967,17.0,20.0,Napoli,Serie A
+Cafaro Mathieu,MO,5.7806287,13.0,19.0,Saint-Étienne,Ligue 2
+Rongier Valentin,MD,5.7801156,12.0,14.0,OM,Ligue 1
+Zalewski Nicola,MO,5.7775006,10.0,11.0,Roma,Serie A
+Modric Luka,MO,5.771158,31.0,41.0,Real Madrid,Liga
+Bourigeaud Benjamin,MO,5.768476,34.0,40.0,Rennes,Ligue 1
+Camavinga Eduardo,MD,5.7680936,15.0,17.0,Real Madrid,Liga
+Yates Ryan,MD,5.7639728,10.0,10.0,Nottingham Forest,Premiere League
+Carlos Baleba,MD,5.762383,7.0,7.0,LOSC,Ligue 1
+Kouamé Rominigue,MD,5.757625,16.0,18.0,Troyes,Ligue 1
+Pi Jessy,MD,5.7542195,8.0,8.0,Dijon FCO,Ligue 2
+Baldanzi Tommaso,MO,5.739398,8.0,11.0,Empoli,Serie A
+Robertone Lucas,MD,5.737948,15.0,18.0,Almería,Liga
+Çalhanoglu Hakan,MO,5.7351575,34.0,42.0,Inter,Serie A
+López David,MD,5.7276945,12.0,13.0,Girona,Liga
+Groß Pascal,MO,5.723786,19.0,27.0,Brighton,Premiere League
+André Almeida,MO,5.721298,14.0,14.0,Valencia,Liga
+Alex Berenguer,MO,5.7170696,15.0,20.0,Athletic,Liga
+Rice Declan,MD,5.7106414,25.0,32.0,West Ham,Premiere League
+Rovella Nicolò,MD,5.7046785,15.0,17.0,Monza,Serie A
+Maziz Youssef,MO,5.7001266,10.0,13.0,FC Metz,Ligue 2
+Tonali Sandro,MD,5.6893206,22.0,29.0,Milan,Serie A
+Kondogbia Geoffrey,MD,5.674151,13.0,16.0,Atlético,Liga
+Barella Nicolò,MO,5.6726527,31.0,44.0,Inter,Serie A
+Pérez Ayoze,MO,5.6720676,6.0,6.0,Leicester,Premiere League
+Nørgaard Christian,MD,5.67024,7.0,10.0,Brentford,Premiere League
+Bonaventura Giacomo,MO,5.6618724,21.0,27.0,Fiorentina,Serie A
+Díaz Brahim,MO,5.656488,15.0,23.0,Milan,Serie A
+Abdul Samed Salis,MD,5.6559453,17.0,20.0,RC Lens,Ligue 1
+Walace,MD,5.6549215,17.0,20.0,Udinese,Serie A
+Bentancur Rodrigo,MD,5.643417,20.0,27.0,Tottenham,Premiere League
+William Carvalho,MD,5.6430225,17.0,22.0,Betis,Liga
+Gavi,MO,5.640846,16.0,24.0,Barcelona,Liga
+Laurienté Armand,MO,5.635091,14.0,19.0,Sassuolo,Serie A
+Samuel Lino,MO,5.628622,15.0,18.0,Valencia,Liga
+Volpato Cristian,MO,5.616365,9.0,9.0,Roma,Serie A
+Zubimendi Martín,MD,5.616108,13.0,14.0,Real Sociedad,Liga
+Llorente Marcos,MD,5.615781,16.0,20.0,Atlético,Liga
+Verratti Marco,MD,5.6134324,22.0,29.0,Paris SG,Ligue 1
+Kanté N'Golo,MD,5.6072345,1.0,2.0,Chelsea,Premiere League
+De Paul Rodrigo,MO,5.6055694,12.0,16.0,Atlético,Liga
+Rúben Neves,MD,5.6016364,19.0,24.0,Wolverhampton,Premiere League
+Gastien Johan,MD,5.59357,15.0,18.0,Clermont,Ligue 1
+De Cordova-Reid Bobby,MO,5.5889673,14.0,18.0,Fulham,Premiere League
+Agoumé Lucien,MD,5.58886,1.0,2.0,Troyes,Ligue 1
+Ferguson Lewis,MD,5.5871644,13.0,16.0,Bologna,Serie A
+Raphinha,MO,5.5864806,20.0,28.0,Barcelona,Liga
+Melero Gonzalo,MO,5.584343,17.0,22.0,Almería,Liga
+Samardzic Lazar,MO,5.582547,13.0,16.0,Udinese,Serie A
+Gustavo Scarpa,MD,5.5803595,6.0,7.0,Nottingham Forest,Premiere League
+Sbaï Amine,MO,5.5778484,6.0,8.0,Grenoble,Ligue 2
+Traorè Hamed,MO,5.5758924,8.0,9.0,Sassuolo,Serie A
+Koopmeiners Teun,MD,5.5731287,19.0,29.0,Atalanta,Serie A
+Summerville Crysencio,MO,5.5707545,16.0,19.0,Leeds,Premiere League
+Fred,MO,5.568874,13.0,16.0,Man. United,Premiere League
+Magnin Yohann,MD,5.5681973,12.0,12.0,Clermont,Ligue 1
+Malinovskyi Ruslan,MO,5.5575924,12.0,25.0,OM,Ligue 1
+Silva David,MO,5.555583,14.0,17.0,Real Sociedad,Liga
+Locatelli Manuel,MD,5.552775,17.0,22.0,Juventus,Serie A
+Roye Jimmy,MO,5.5449123,14.0,20.0,Laval,Ligue 2
+Fomba Lamine,MD,5.544539,14.0,19.0,Nimes O.,Ligue 2
+Ramsey Aaron,MO,5.541117,11.0,12.0,OGC Nice,Ligue 1
+Kubo Takefusa,MO,5.539791,14.0,16.0,Real Sociedad,Liga
+Illarramendi Asier,MD,5.5319085,8.0,8.0,Real Sociedad,Liga
+Court Yoann,MO,5.528851,5.0,5.0,SM Caen,Ligue 2
+Gabri Veiga Gabriel,MO,5.528513,15.0,18.0,Celta,Liga
+Matic Nemanja,MD,5.523909,14.0,16.0,Roma,Serie A
+Luis Alberto,MO,5.5214005,22.0,27.0,Lazio,Serie A
+Álex Baena,MO,5.5203147,14.0,18.0,Villarreal,Liga
+Lobry Victor,MD,5.520067,22.0,31.0,Saint-Étienne,Ligue 2
+Fekir Nabil,MO,5.519997,22.0,31.0,Betis,Liga
+Mudryk Mykhailo,MO,5.5168357,11.0,24.0,Chelsea,Premiere League
+Gyabi Darko,MD,5.5168357,1.0,1.0,Leeds,Premiere League
+Magassa Soungoutou,MD,5.5168357,1.0,1.0,AS Monaco,Ligue 1
+Ikoné Jonathan,MO,5.515384,13.0,17.0,Fiorentina,Serie A
+Lazzari Manuel,MD,5.5132933,15.0,17.0,Lazio,Serie A
+Chukwuemeka Carney,MO,5.513199,1.0,2.0,Chelsea,Premiere League
+Cathline Yoann,MO,5.512193,10.0,11.0,FC Lorient,Ligue 1
+Gudelj Nemanja,MD,5.511491,14.0,17.0,Sevilla,Liga
+Ruíz de Galarreta Íñigo,MO,5.510299,11.0,11.0,Mallorca,Liga
+Thomasen Jens,MD,5.506611,12.0,15.0,Nimes O.,Ligue 2
+Darder Sergi,MD,5.5053835,21.0,23.0,Espanyol,Liga
+Capoue Etienne,MD,5.505053,14.0,17.0,Villarreal,Liga
+Álex Fernández,MO,5.4935164,13.0,13.0,Cádiz,Liga
+Lepenant Johann,MD,5.492395,13.0,15.0,OL,Ligue 1
+M'Changama Youssouf,MD,5.4919596,9.0,9.0,AJ Auxerre,Ligue 1
+Ignatenko Danylo,MD,5.491195,17.0,27.0,Bordeaux,Ligue 2
+McTominay Scott,MD,5.488801,11.0,14.0,Man. United,Premiere League
+Pierret Balthazar,MD,5.4877543,13.0,18.0,Quevilly RM,Ligue 2
+Torres Óliver,MO,5.486357,13.0,18.0,Sevilla,Liga
+Bissouma Yves,MD,5.4807124,11.0,12.0,Tottenham,Premiere League
+Kebano Neeskens,MO,5.4783454,3.0,4.0,Fulham,Premiere League
+Minamino Takumi,MO,5.476581,10.0,10.0,AS Monaco,Ligue 1
+Blin Alexis,MD,5.476064,11.0,11.0,Lecce,Serie A
+Diallo Ibrahima,MD,5.4723277,7.0,7.0,Southampton,Premiere League
+Sulemana Kamaldeen,MO,5.470588,9.0,11.0,Rennes,Ligue 1
+Maddison James,MO,5.4669323,32.0,43.0,Leicester,Premiere League
+Edu Expósito,MO,5.46625,12.0,16.0,Espanyol,Liga
+Tavernier Marcus,MO,5.4613385,15.0,17.0,Bournemouth,Premiere League
+Xeka,MD,5.4610906,11.0,11.0,Rennes,Ligue 1
+Ndong Didier,MD,5.4587502,13.0,17.0,Dijon FCO,Ligue 2
+Candreva Antonio,MO,5.455571,26.0,30.0,Salernitana,Serie A
+Vecino Matías,MD,5.4552436,15.0,16.0,Lazio,Serie A
+Moutoussamy Samuel,MD,5.4535756,11.0,11.0,FC Nantes,Ligue 1
+Musah Yunus,MO,5.452649,8.0,9.0,Valencia,Liga
+Zemzemi Moataz,MO,5.4525547,14.0,20.0,Niort,Ligue 2
+Lasne Paul,MD,5.4513264,11.0,13.0,Paris FC,Ligue 2
+Harit Amine,MO,5.4492264,5.0,14.0,OM,Ligue 1
+Vesga Mikel,MD,5.448598,13.0,17.0,Athletic,Liga
+Rodri Rodrigo,MO,5.4444475,10.0,14.0,Betis,Liga
+Dasilva Josh,MO,5.4433756,12.0,15.0,Brentford,Premiere League
+Mkhitaryan Henrikh,MO,5.4423323,19.0,24.0,Inter,Serie A
+Bandinelli Filippo,MD,5.4412074,16.0,19.0,Empoli,Serie A
+Chambost Dylan,MO,5.436565,17.0,24.0,Saint-Étienne,Ligue 2
+Cairney Tom,MO,5.4354453,12.0,12.0,Fulham,Premiere League
+Gallagher Conor,MD,5.4301925,11.0,11.0,Chelsea,Premiere League
+Touray Saikou,MD,5.429323,8.0,10.0,Grenoble,Ligue 2
+Chukwueze Samuel,MO,5.4271493,16.0,22.0,Villarreal,Liga
+Pereyra Roberto,MO,5.42347,15.0,19.0,Udinese,Serie A
+Mahrez Riyad,MO,5.423123,16.0,25.0,Man. City,Premiere League
+Obiang Pedro,MD,5.4183164,8.0,8.0,Sassuolo,Serie A
+Domínguez Nicolás,MD,5.414926,14.0,14.0,Bologna,Serie A
+Sissokho Issouf,MO,5.4147143,8.0,12.0,Bordeaux,Ligue 2
+Gonçalves Anthony,MD,5.411323,11.0,13.0,Laval,Ligue 2
+Felipe Anderson,MO,5.4108825,21.0,29.0,Lazio,Serie A
+Milla Luis,MO,5.4080796,11.0,13.0,Getafe,Liga
+Lo Celso Giovani,MO,5.4061594,12.0,23.0,Villarreal,Liga
+Trejo Óscar,MO,5.400707,15.0,19.0,Rayo Vallecano,Liga
+Harrison Jack,MO,5.3962007,16.0,19.0,Leeds,Premiere League
+Herrera Yangel,MD,5.3916674,11.0,14.0,Girona,Liga
+Luiz Henrique,MO,5.386375,11.0,14.0,Betis,Liga
+de Lima Marvin,MO,5.38456,1.0,3.0,Bordeaux,Ligue 2
+Lemar Thomas,MO,5.383804,11.0,12.0,Atlético,Liga
+Autret Mathias,MO,5.381174,13.0,15.0,AJ Auxerre,Ligue 1
+Joaquín,MO,5.3784895,8.0,9.0,Betis,Liga
+Papu Gómez,MO,5.373573,14.0,17.0,Sevilla,Liga
+Sensi Stefano,MD,5.372026,13.0,14.0,Monza,Serie A
+Doucouré Abdoulaye,MO,5.3649526,8.0,10.0,Everton,Premiere League
+Krunic Rade,MD,5.3639946,8.0,8.0,Milan,Serie A
+Albrighton Marc,MO,5.36298,6.0,6.0,Leicester,Premiere League
+Clauss Jonathan,MD,5.3610983,19.0,24.0,OM,Ligue 1
+Mbemba Nolan,MD,5.355251,11.0,11.0,Havre AC,Ligue 2
+Sancho Jadon,MO,5.3549023,18.0,24.0,Man. United,Premiere League
+Witsel Axel,MD,5.3530517,15.0,20.0,Atlético,Liga
+Rubén García,MO,5.352159,14.0,16.0,Osasuna,Liga
+Lerma Jefferson,MD,5.346511,13.0,15.0,Bournemouth,Premiere League
+Cristante Bryan,MD,5.3459144,15.0,19.0,Roma,Serie A
+Munetsi Marshall,MD,5.3431935,12.0,13.0,Reims,Ligue 1
+Valentín Óscar,MD,5.337584,12.0,14.0,Rayo Vallecano,Liga
+Dossou Jodel,MO,5.334836,10.0,12.0,Clermont,Ligue 1
+Vinicius Souza,MD,5.3346295,12.0,16.0,Espanyol,Liga
+Ceballos Dani,MO,5.3343434,9.0,9.0,Real Madrid,Liga
+Mesa Roque,MD,5.333666,14.0,16.0,Valladolid,Liga
+Douglas Luiz,MD,5.3316774,12.0,14.0,Aston Villa,Premiere League
+Samu Castillejo,MO,5.33151,10.0,13.0,Valencia,Liga
+Paredes Leandro,MD,5.3271008,9.0,10.0,Juventus,Serie A
+Brozovic Marcelo,MD,5.326599,22.0,27.0,Inter,Serie A
+Arslan Tolgay,MD,5.32655,9.0,9.0,Udinese,Serie A
+Colback Jack,MD,5.3263307,3.0,3.0,Nottingham Forest,Premiere League
+Mamadou Fofana II Mamadou,MD,5.3252344,12.0,17.0,Amiens SC,Ligue 2
+Phiri Lebogang,MD,5.3174124,11.0,11.0,Paris FC,Ligue 2
+Perez Manuel,MD,5.3169127,5.0,8.0,Grenoble,Ligue 2
+Riquelme Rodrigo,MO,5.3121576,13.0,17.0,Girona,Liga
+Lee Kang-In,MO,5.3116555,13.0,19.0,Mallorca,Liga
+Barak Antonín,MO,5.308947,18.0,19.0,Fiorentina,Serie A
+Rakitic Ivan,MD,5.3068953,15.0,19.0,Sevilla,Liga
+Rodríguez Óscar,MO,5.3063207,13.0,18.0,Celta,Liga
+Dani Rodríguez,MO,5.3061285,13.0,14.0,Mallorca,Liga
+Tameze Adrien,MD,5.3049116,11.0,13.0,Verona,Serie A
+Barreto Mickaël,MO,5.3047924,5.0,5.0,AC Ajaccio,Ligue 1
+Koke,MO,5.2955966,13.0,16.0,Atlético,Liga
+Santi Comesaña Santiago,MO,5.290471,12.0,13.0,Rayo Vallecano,Liga
+Santamaría Baptiste,MD,5.2900524,1.0,4.0,Rennes,Ligue 1
+Aribo Joe,MO,5.289611,13.0,15.0,Southampton,Premiere League
+Billemaz Clément,MO,5.283794,9.0,9.0,FC Annecy,Ligue 2
+Gbellé Garland,MO,5.2720165,14.0,15.0,Quevilly RM,Ligue 2
+Boisgard Quentin,MO,5.267207,5.0,7.0,FC Lorient,Ligue 1
+Aguado Álvaro,MO,5.266255,12.0,12.0,Valladolid,Liga
+Boissier Rémy,MD,5.26501,15.0,17.0,Rodez AF,Ligue 2
+Ndiaye Rassoul,MD,5.2624087,16.0,24.0,Sochaux,Ligue 2
+McGinn John,MD,5.2619815,14.0,17.0,Aston Villa,Premiere League
+Willock Joe,MO,5.260229,14.0,19.0,Newcastle,Premiere League
+Kouassi Xavier,MD,5.260166,15.0,19.0,Pau FC,Ligue 2
+Baptiste Shandon,MD,5.260044,7.0,8.0,Brentford,Premiere League
+Dani García,MD,5.2596717,10.0,10.0,Athletic,Liga
+Le Fée Enzo,MO,5.259333,22.0,26.0,FC Lorient,Ligue 1
+Castrovilli Gaetano,MO,5.2578897,1.0,1.0,Fiorentina,Serie A
+Álex Collado Álex,MO,5.2517104,13.0,13.0,Elche,Liga
+Gonalons Maxime,MD,5.24695,10.0,11.0,Clermont,Ligue 1
+Soriano Roberto,MO,5.246411,14.0,15.0,Bologna,Serie A
+Mohamed Elneny,MD,5.2436047,5.0,5.0,Arsenal,Premiere League
+Faivre Romain,MO,5.2416315,16.0,19.0,OL,Ligue 1
+Akouokou Paul,MD,5.2412558,7.0,7.0,Betis,Liga
+Toni Villa,MO,5.2408175,10.0,11.0,Girona,Liga
+Junior Messias Junior,MO,5.240014,14.0,18.0,Milan,Serie A
+Ødegaard Martin,MO,5.2387013,29.0,51.0,Arsenal,Premiere League
+Cajuste Jens,MD,5.233933,11.0,11.0,Reims,Ligue 1
+Caqueret Maxence,MD,5.232882,16.0,19.0,OL,Ligue 1
+Lallana Adam,MO,5.2326474,11.0,13.0,Brighton,Premiere League
+Moro Nikola,MD,5.232636,8.0,9.0,Bologna,Serie A
+Cervi Franco,MO,5.2319016,13.0,17.0,Celta,Liga
+Lopy Dion,MD,5.2313685,10.0,10.0,Reims,Ligue 1
+Tchouaméni Aurélien,MD,5.23123,20.0,27.0,Real Madrid,Liga
+De Ketelaere Charles,MO,5.2290792,15.0,18.0,Milan,Serie A
+Mouton Louis,MD,5.2268186,10.0,12.0,Saint-Étienne,Ligue 2
+Diogo Jota,MO,5.226649,13.0,17.0,Liverpool,Premiere League
+Dejaegere Brecht,MO,5.2236166,17.0,18.0,Toulouse FC,Ligue 1
+Richardson Amir,MO,5.2218184,14.0,19.0,Havre AC,Ligue 2
+Sarabia Pablo,MO,5.2215476,6.0,9.0,Wolverhampton,Premiere League
+Aebischer Michel,MD,5.2210174,13.0,13.0,Bologna,Serie A
+Gabriel Strefezza Gabriel,MO,5.2194037,17.0,23.0,Lecce,Serie A
+Weissbeck Gaétan,MO,5.2188163,30.0,41.0,Sochaux,Ligue 2
+Marcos Antônio,MO,5.2111416,10.0,10.0,Lazio,Serie A
+Salles-Lamonge Sébastien,MO,5.208048,16.0,23.0,SC Bastia,Ligue 2
+Rony Lopes,MO,5.207942,17.0,19.0,Troyes,Ligue 1
+Thorstvedt Kristian,MO,5.207747,12.0,13.0,Sassuolo,Serie A
+Kike Pérez,MO,5.206583,10.0,10.0,Valladolid,Liga
+Fidel,MO,5.2041383,11.0,24.0,Elche,Liga
+Demoncy Yohan,MD,5.2038083,9.0,9.0,FC Annecy,Ligue 2
+Guillamón Hugo,MD,5.2020426,14.0,16.0,Valencia,Liga
+Marín Pablo,MO,5.2018013,4.0,4.0,Real Sociedad,Liga
+Cruz Juan,MD,5.2016134,6.0,6.0,Betis,Liga
+Andreas Pereira,MO,5.1994047,16.0,21.0,Fulham,Premiere League
+Eguaras Íñigo,MD,5.19866,11.0,17.0,Almería,Liga
+Radonjic Nemanja,MO,5.196228,12.0,14.0,Torino,Serie A
+Gumbau Gerard,MD,5.1952744,10.0,10.0,Elche,Liga
+Sarr Pape,MD,5.1925225,1.0,1.0,Tottenham,Premiere League
+Nico González Nicolás,MD,5.189091,13.0,13.0,Valencia,Liga
+Picouleau Mathis,MD,5.1808805,12.0,12.0,Valenciennes,Ligue 2
+Sagna Amadou,MO,5.180352,15.0,23.0,Niort,Ligue 2
+Mandragora Rolando,MD,5.1769514,13.0,14.0,Fiorentina,Serie A
+Kovacic Mateo,MO,5.1762795,11.0,14.0,Chelsea,Premiere League
+Simon Moses,MO,5.1760354,25.0,31.0,FC Nantes,Ligue 1
+Aouar Houssem,MO,5.174617,14.0,16.0,OL,Ligue 1
+Ngando Axel,MO,5.1712823,10.0,12.0,Grenoble,Ligue 2
+Ñíguez Saúl,MD,5.17082,13.0,14.0,Atlético,Liga
+Anderson Elliot,MO,5.167789,8.0,8.0,Newcastle,Premiere League
+Askildsen Kristoffer,MD,5.1670814,9.0,9.0,Lecce,Serie A
+Buni Jorge Plamedi,MO,5.165939,1.0,1.0,Rodez AF,Ligue 2
+Jérémie Bela Jeremie,MO,5.1647353,10.0,12.0,Clermont,Ligue 1
+Iglesias Jonathan,MO,5.16342,14.0,24.0,Paris FC,Ligue 2
+Edozie Samuel,MO,5.159983,7.0,9.0,Southampton,Premiere League
+Jordán Joan,MD,5.1593275,10.0,10.0,Sevilla,Liga
+N'guessan Jean,MD,5.156147,14.0,18.0,Nimes O.,Ligue 2
+Désiré Doué Désiré,MO,5.155917,6.0,10.0,Rennes,Ligue 1
+Zurkowski Szymon,MD,5.155716,5.0,5.0,Spezia,Serie A
+Yade Papa Ndiaga,MO,5.154192,5.0,7.0,Troyes,Ligue 1
+Coutadeur Mathieu,MD,5.1489906,12.0,12.0,AC Ajaccio,Ligue 1
+Aleñá Carles,MO,5.1481924,15.0,17.0,Getafe,Liga
+Tahirovic Benjamin,MO,5.14819,2.0,3.0,Roma,Serie A
+Tolisso Corentin,MD,5.148177,12.0,16.0,OL,Ligue 1
+Pirringuel Lenny,MD,5.146831,4.0,4.0,Bordeaux,Ligue 2
+Tuhami Anuar,MO,5.144861,1.0,2.0,Valladolid,Liga
+Januzaj Adnan,MO,5.1435823,5.0,5.0,Sevilla,Liga
+Romero Luka,MO,5.143038,7.0,7.0,Lazio,Serie A
+Lopez Maxime,MO,5.1380906,19.0,21.0,Sassuolo,Serie A
+López Julien,MO,5.1323714,14.0,16.0,Paris FC,Ligue 2
+Alcaraz Rubén,MD,5.130955,10.0,11.0,Cádiz,Liga
+Keïta Naby,MD,5.130482,1.0,2.0,Liverpool,Premiere League
+Ounas Adam,MO,5.1283636,16.0,21.0,LOSC,Ligue 1
+O'Brien Lewis,MO,5.128101,9.0,9.0,Nottingham Forest,Premiere League
+Merlin Quentin,MD,5.127885,11.0,13.0,FC Nantes,Ligue 1
+Innocent Bonke,MD,5.1259313,11.0,11.0,FC Lorient,Ligue 1
+Maleh Youssef,MO,5.1253524,5.0,5.0,Lecce,Serie A
+Spierings Stijn,MD,5.1252522,15.0,17.0,Toulouse FC,Ligue 1
+Shelvey Jonjo,MD,5.1230593,7.0,7.0,Newcastle,Premiere League
+Fábio Vieira,MO,5.1211915,9.0,13.0,Arsenal,Premiere League
+Zakaria Denis,MD,5.1194487,1.0,2.0,Chelsea,Premiere League
+Abdelli Himad,MO,5.118223,10.0,10.0,Angers SCO,Ligue 1
+de la Hoz César,MD,5.1177545,12.0,12.0,Almería,Liga
+Oroz Aimar,MO,5.1172094,11.0,13.0,Osasuna,Liga
+Lazo José Carlos,MO,5.1161056,10.0,10.0,Espanyol,Liga
+Herrera Ander,MD,5.114107,9.0,11.0,Athletic,Liga
+Ciss Pathé,MD,5.113259,12.0,12.0,Rayo Vallecano,Liga
+Kyeremeh Godson,MD,5.1130977,12.0,18.0,SM Caen,Ligue 2
+Belkebla Haris,MD,5.11115,11.0,13.0,Brest,Ligue 1
+Ben Seghir Eliesse,MD,5.11089,7.0,9.0,AS Monaco,Ligue 1
+Grassi Alberto,MD,5.110773,10.0,10.0,Empoli,Serie A
+Momo Cho Mohamed-Ali,MO,5.1106954,9.0,10.0,Real Sociedad,Liga
+N'Doram Kévin,MD,5.1060886,11.0,11.0,FC Metz,Ligue 2
+Fraser Ryan,MO,5.1058807,5.0,5.0,Newcastle,Premiere League
+Elis Alberth,MO,5.105788,14.0,20.0,Bordeaux,Ligue 2
+Sakhi Hamza,MO,5.104612,12.0,13.0,AJ Auxerre,Ligue 1
+Marié Jordan,MD,5.102964,10.0,12.0,Dijon FCO,Ligue 2
+Monchu,MD,5.10283,13.0,15.0,Valladolid,Liga
+Ahlinvi Mattéo,MD,5.1026063,3.0,7.0,Dijon FCO,Ligue 2
+Reinier,MO,5.101739,6.0,8.0,Girona,Liga
+Fran Beltrán,MD,5.101625,12.0,18.0,Celta,Liga
+Coquelin Francis,MD,5.101431,10.0,10.0,Villarreal,Liga
+Dewsbury-Hall Kiernan,MD,5.1009755,13.0,15.0,Leicester,Premiere League
+Sidibe Kalidou,MD,5.100596,15.0,15.0,Quevilly RM,Ligue 2
+Ruibal Aitor,MO,5.098032,9.0,9.0,Betis,Liga
+Milivojevic Luka,MD,5.0974445,8.0,8.0,Crystal Palace,Premiere League
+Lovric Sandi,MD,5.0946374,13.0,14.0,Udinese,Serie A
+Barkley Ross,MO,5.094499,12.0,13.0,OGC Nice,Ligue 1
+Castagnetti Michele,MD,5.093271,9.0,9.0,Cremonese,Serie A
+Villar Gonzalo,MD,5.092545,8.0,8.0,Getafe,Liga
+Sylvestre Eddy,MO,5.0898643,12.0,14.0,Pau FC,Ligue 2
+Fábio Carvalho Fabio,MO,5.089129,9.0,11.0,Liverpool,Premiere League
+Ranocchia Filippo,MD,5.0871944,9.0,9.0,Monza,Serie A
+Mangala Orel,MD,5.0854225,8.0,8.0,Nottingham Forest,Premiere League
+Ilaix Moriba,MD,5.083872,11.0,13.0,Valencia,Liga
+Matazo Eliot,MD,5.0807753,7.0,10.0,AS Monaco,Ligue 1
+Lanzini Manuel,MO,5.080494,7.0,7.0,West Ham,Premiere League
+Ekdal Albin,MD,5.080098,9.0,9.0,Spezia,Serie A
+Pulisic Christian,MO,5.0797863,10.0,13.0,Chelsea,Premiere League
+Helgason Thórir,MD,5.07952,5.0,5.0,Lecce,Serie A
+Benet Jessy,MO,5.0784454,13.0,20.0,Amiens SC,Ligue 2
+Mac Allister Alexis,MO,5.0776935,23.0,34.0,Brighton,Premiere League
+Sánchez Iván,MO,5.0754943,10.0,10.0,Valladolid,Liga
+Romeu Oriol,MD,5.0735636,13.0,13.0,Girona,Liga
+Tait Flavien,MO,5.0726867,17.0,20.0,Rennes,Ligue 1
+Lachuer Mathis,MD,5.071026,7.0,10.0,Amiens SC,Ligue 2
+Vitinha,MO,5.0697756,12.0,17.0,Paris SG,Ligue 1
+Torró Lucas,MD,5.0689554,9.0,12.0,Osasuna,Liga
+Bouanani Badredine,MO,5.067905,1.0,1.0,OGC Nice,Ligue 1
+Onyeka Frank,MD,5.0662174,9.0,9.0,Brentford,Premiere League
+Arambarri Mauro,MD,5.066197,5.0,5.0,Getafe,Liga
+Smith Rowe Emile,MO,5.0653367,3.0,4.0,Arsenal,Premiere League
+Harroui Abdou,MD,5.0652995,10.0,10.0,Sassuolo,Serie A
+Nguyen Quang Hai,MO,5.0643644,7.0,10.0,Pau FC,Ligue 2
+Saponara Riccardo,MO,5.0627007,11.0,12.0,Fiorentina,Serie A
+Brasanac Darko,MD,5.0625353,9.0,9.0,Osasuna,Liga
+El Melali Farid,MO,5.0602393,10.0,10.0,Angers SCO,Ligue 1
+Grenier Clément,MO,5.060164,8.0,8.0,Mallorca,Liga
+Phliponeau Alexandre,MD,5.0599847,1.0,3.0,FC Annecy,Ligue 2
+Sissoko Ibrahima,MD,5.057527,9.0,9.0,Strasbourg,Ligue 1
+David Costa,MD,5.0564737,17.0,21.0,RC Lens,Ligue 1
+Reine-Adélaïde Jeff,MO,5.055788,9.0,11.0,OL,Ligue 1
+Adli Yacine,MO,5.0555983,6.0,6.0,Milan,Serie A
+Chaïbi Farès,MO,5.0541224,14.0,17.0,Toulouse FC,Ligue 1
+Hein Gauthier,MO,5.052127,12.0,15.0,AJ Auxerre,Ligue 1
+Bangré Mamady,MO,5.0500884,14.0,14.0,Quevilly RM,Ligue 2
+Samú Costa,MD,5.0488834,9.0,9.0,Almería,Liga
+Solari Augusto,MO,5.048617,5.0,5.0,Celta,Liga
+van de Beek Donny,MO,5.047256,4.0,4.0,Man. United,Premiere League
+Trossard Leandro,MO,5.0467606,26.0,35.0,Arsenal,Premiere League
+Chotard Joris,MD,5.044502,12.0,13.0,Montpellier,Ligue 1
+Kebbal Ilan,MO,5.043904,11.0,15.0,Paris FC,Ligue 2
+Praet Dennis,MO,5.043881,7.0,7.0,Leicester,Premiere League
+Havertz Kai,MO,5.0428953,16.0,24.0,Chelsea,Premiere League
+Kaboré Charles,MD,5.039486,12.0,26.0,Niort,Ligue 2
+Alvero Skelly,MD,5.038438,8.0,8.0,Sochaux,Ligue 2
+Gelson Martins,MO,5.0354476,7.0,7.0,AS Monaco,Ligue 1
+Ounahi Azzedine,MD,5.0352044,12.0,15.0,Angers SCO,Ligue 1
+Bajrami Nedim,MO,5.0335584,13.0,14.0,Empoli,Serie A
+Leroy Léo,MO,5.030935,12.0,12.0,Montpellier,Ligue 1
+Guevara Ander,MD,5.030781,7.0,7.0,Real Sociedad,Liga
+Amrabat Sofyan,MD,5.0291567,11.0,12.0,Fiorentina,Serie A
+Roncaglia Anthony,MD,5.028533,9.0,9.0,SC Bastia,Ligue 2
+Unai López Unai,MO,5.0258636,12.0,12.0,Rayo Vallecano,Liga
+Kessie Franck,MD,5.025728,16.0,24.0,Barcelona,Liga
+Deaux Lucas,MD,5.0256124,8.0,10.0,Dijon FCO,Ligue 2
+Younoussa Wilitty,MD,5.0212555,9.0,9.0,Rodez AF,Ligue 2
+Garner James,MD,5.0170994,6.0,6.0,Everton,Premiere League
+Gaetano Gianluca,MO,5.0164433,7.0,7.0,Napoli,Serie A
+Cambiaghi Nicolò,MO,5.013275,10.0,10.0,Empoli,Serie A
+Barrios Pablo,MD,5.0124807,5.0,5.0,Atlético,Liga
+Pickel Charles,MD,5.01041,11.0,12.0,Cremonese,Serie A
+Kouyaté Cheikhou,MD,5.0084047,12.0,12.0,Nottingham Forest,Premiere League
+D'Andrea Luca,MO,5.0082607,7.0,7.0,Sassuolo,Serie A
+Cook Lewis,MD,5.006839,11.0,11.0,Bournemouth,Premiere League
+Manu Trigueros,MO,5.0065546,12.0,12.0,Villarreal,Liga
+Gordon Anthony,MO,5.0060616,14.0,18.0,Everton,Premiere League
+Boli Charles,MO,5.0060596,9.0,9.0,Pau FC,Ligue 2
+Marchetti Vincent,MD,5.005934,12.0,12.0,AC Ajaccio,Ligue 1
+Asensio Marco,MO,5.00492,22.0,24.0,Real Madrid,Liga
+Fernando,MD,5.004772,9.0,9.0,Sevilla,Liga
+Poreba Lukasz,MD,5.0045443,6.0,6.0,RC Lens,Ligue 1
+Soumaré Bryan,MO,5.003979,14.0,21.0,Dijon FCO,Ligue 2
+Achi Mohamed,MD,5.003771,1.0,1.0,FC Nantes,Ligue 1
+Cortinovis Alessandro,MO,5.003771,1.0,1.0,Atalanta,Serie A
+Hutchinson Omari,MO,5.003771,3.0,3.0,Chelsea,Premiere League
+Touré Madou,MD,5.003771,3.0,3.0,Valenciennes,Ligue 2
+Martínez Roger,MD,5.003771,1.0,1.0,Espanyol,Liga
+Riedewald Jairo,MD,5.003771,5.0,5.0,Crystal Palace,Premiere League
+Guitane Rafik,MO,5.003771,1.0,1.0,Reims,Ligue 1
+Torre Pablo,MO,5.003771,1.0,3.0,Barcelona,Liga
+Boudaché Ilian,MO,5.003771,1.0,1.0,Nimes O.,Ligue 2
+Esposito Salvatore,MD,5.003771,8.0,8.0,Spezia,Serie A
+Sambi Lokonga Albert,MD,5.001715,3.0,4.0,Arsenal,Premiere League
+Portillo Francisco,MO,5.001459,9.0,9.0,Almería,Liga
+Martin Florian,MO,5.001407,7.0,7.0,Valenciennes,Ligue 2
+Skyttä Naatan,MO,4.9994874,1.0,1.0,Toulouse FC,Ligue 1
+Raúl Guti,MD,4.998463,10.0,10.0,Elche,Liga
+Dingomé Tristan,MO,4.997114,10.0,10.0,Troyes,Ligue 1
+Stanislas Junior,MO,4.996935,6.0,6.0,Bournemouth,Premiere League
+Sanson Morgan,MO,4.996544,3.0,3.0,Aston Villa,Premiere League
+Rocchi Jean-Jacques,MO,4.994275,9.0,9.0,FC Annecy,Ligue 2
+Bohinen Emil,MO,4.9940276,8.0,8.0,Salernitana,Serie A
+Turrientes Beñat,MD,4.9923954,4.0,7.0,Real Sociedad,Liga
+Hongla Martin,MD,4.992293,9.0,9.0,Verona,Serie A
+Djenepo Moussa,MO,4.9905562,7.0,7.0,Southampton,Premiere League
+Tapoko Kevin,MD,4.990278,5.0,5.0,Laval,Ligue 2
+Renel Samuel,MO,4.9896755,11.0,11.0,Niort,Ligue 2
+Coulibaly Lassana,MD,4.9896345,16.0,18.0,Salernitana,Serie A
+Navarro Robert,MO,4.989231,9.0,9.0,Real Sociedad,Liga
+Bove Edoardo,MD,4.9892254,8.0,8.0,Roma,Serie A
+Suso,MO,4.988489,6.0,6.0,Sevilla,Liga
+Beka Beka Alexis,MO,4.9875126,4.0,6.0,OGC Nice,Ligue 1
+Gene Owen,MD,4.9853816,6.0,6.0,Amiens SC,Ligue 2
+André Gomes,MD,4.984968,11.0,13.0,LOSC,Ligue 1
+Cabot Jimmy,MO,4.984315,1.0,1.0,RC Lens,Ligue 1
+Salvi Sánchez,MO,4.982376,8.0,8.0,Rayo Vallecano,Liga
+Basic Toma,MD,4.9807925,11.0,11.0,Lazio,Serie A
+Matheus Henrique,MD,4.980325,7.0,7.0,Sassuolo,Serie A
+Miguel Veloso,MD,4.979588,12.0,12.0,Verona,Serie A
+Traoré Boubacar,MD,4.9793935,8.0,8.0,Wolverhampton,Premiere League
+Sánchez Antonio,MD,4.978173,11.0,11.0,Mallorca,Liga
+James Dan,MO,4.9780436,12.0,12.0,Fulham,Premiere League
+Lamela Erik,MO,4.977991,17.0,22.0,Sevilla,Liga
+Cham Muhammed,MO,4.977115,16.0,18.0,Clermont,Ligue 1
+Miretti Fabio,MO,4.977027,11.0,16.0,Juventus,Serie A
+Gueye Pape,MD,4.975598,13.0,13.0,OM,Ligue 1
+Cherki Rayan,MO,4.975215,12.0,12.0,OL,Ligue 1
+Henderson Liam,MD,4.9750934,12.0,12.0,Empoli,Serie A
+Vignato Emanuel,MO,4.974926,9.0,9.0,Bologna,Serie A
+Onana Jean,MD,4.9746575,11.0,11.0,RC Lens,Ligue 1
+Melamed Nicolás,MD,4.9739866,10.0,10.0,Espanyol,Liga
+Verre Valerio,MO,4.971615,11.0,12.0,Sampdoria,Serie A
+Wilson Harry,MO,4.970222,8.0,8.0,Fulham,Premiere League
+Diarra Habib,MD,4.969842,7.0,7.0,Strasbourg,Ligue 1
+Mathias Pereira Lage Mathias,MO,4.9696293,14.0,15.0,Brest,Ligue 1
+Martin Jonas,MD,4.9680552,7.0,7.0,LOSC,Ligue 1
+José Mari,MD,4.9662414,9.0,9.0,Cádiz,Liga
+Samu Sáiz,MO,4.9662056,9.0,9.0,Girona,Liga
+Downes Flynn,MD,4.9661193,8.0,8.0,West Ham,Premiere League
+Soumaré Boubakary,MD,4.965598,12.0,14.0,Leicester,Premiere League
+Adopo Michel,MD,4.9638596,4.0,4.0,Torino,Serie A
+Algobia Ángel,MO,4.963506,10.0,10.0,Getafe,Liga
+Akliouche Maghnes,MO,4.961336,5.0,7.0,AS Monaco,Ligue 1
+Bondo Warren,MO,4.960904,6.0,6.0,Monza,Serie A
+Alejo Iván,MO,4.959331,10.0,10.0,Cádiz,Liga
+Boutoutaou Aymen,MO,4.9590425,11.0,18.0,Valenciennes,Ligue 2
+Maggiore Giulio,MD,4.958568,9.0,9.0,Salernitana,Serie A
+Doumbia Kamory,MD,4.956893,12.0,12.0,Reims,Ligue 1
+Loftus-Cheek Ruben,MO,4.953889,10.0,10.0,Chelsea,Premiere League
+Kike Barja,MO,4.9531665,10.0,10.0,Osasuna,Liga
+Abzi Diyaeddine,MO,4.952865,9.0,9.0,Pau FC,Ligue 2
+Mama Baldé,MO,4.9528213,17.0,28.0,Troyes,Ligue 1
+Wijnaldum Georginio,MO,4.9520025,1.0,2.0,Roma,Serie A
+Yatabaré Sambou,MD,4.951034,5.0,5.0,Sochaux,Ligue 2
+Mahmoud Elies,MO,4.950669,10.0,11.0,Havre AC,Ligue 2
+Oudin Remi,MO,4.9500623,9.0,11.0,Lecce,Serie A
+Benezet Nicolas,MO,4.9482694,5.0,5.0,Nimes O.,Ligue 2
+Bellegarde Jean-Ricner,MD,4.948151,18.0,19.0,Strasbourg,Ligue 1
+Mascarell Omar,MD,4.947276,11.0,12.0,Elche,Liga
+Battaglia Rodrigo,MD,4.9471655,9.0,10.0,Mallorca,Liga
+Taibi Waniss,MO,4.9446793,6.0,6.0,Angers SCO,Ligue 1
+Bianco Alessandro,MD,4.9435687,1.0,1.0,Fiorentina,Serie A
+Kaba Mohamed,MD,4.9432874,16.0,21.0,Valenciennes,Ligue 2
+Pablo Ibáñez Pablo,MD,4.940591,4.0,7.0,Osasuna,Liga
+Asllani Kristjan,MD,4.9403834,8.0,8.0,Inter,Serie A
+Delaney Thomas,MD,4.939889,7.0,7.0,Sevilla,Liga
+Spadanuda Kevin,MD,4.9396687,6.0,8.0,AC Ajaccio,Ligue 1
+Nteka Randy,MO,4.9381104,7.0,7.0,Rayo Vallecano,Liga
+Meïté Soualiho,MD,4.936937,10.0,11.0,Cremonese,Serie A
+Bongonda Théo,MO,4.9368763,13.0,13.0,Cádiz,Liga
+D'Almeida Sessi,MD,4.935549,8.0,8.0,Pau FC,Ligue 2
+Linetty Karol,MD,4.935308,13.0,14.0,Torino,Serie A
+Camara Mamadou,MD,4.9327364,7.0,7.0,SC Bastia,Ligue 2
+Ouammou Nassim,MO,4.932511,11.0,12.0,Rodez AF,Ligue 2
+Seoane Jaime,MD,4.932452,8.0,8.0,Getafe,Liga
+Martín Iván,MO,4.9319925,7.0,7.0,Girona,Liga
+Ruiz Fabián,MD,4.929542,11.0,14.0,Paris SG,Ligue 1
+Zaniolo Nicolò,MO,4.9266286,11.0,14.0,Roma,Serie A
+Sambia Junior,MD,4.925732,4.0,4.0,Salernitana,Serie A
+Kandil Nordine,MO,4.9224954,3.0,6.0,Strasbourg,Ligue 1
+Terrats Ramón,MD,4.921209,5.0,5.0,Girona,Liga
+Botué Jean,MO,4.919927,1.0,2.0,AC Ajaccio,Ligue 1
+Guardado Andrés,MD,4.9198956,11.0,11.0,Betis,Liga
+Boutobba Bilal,MO,4.9187727,25.0,44.0,Niort,Ligue 2
+Gagliardini Roberto,MD,4.917775,7.0,12.0,Inter,Serie A
+Barrenetxea Ander,MO,4.916962,3.0,5.0,Real Sociedad,Liga
+Fayad Khalil,MD,4.9167786,9.0,12.0,Montpellier,Ligue 1
+N'Duquidi Joseph,MD,4.9165597,3.0,4.0,FC Metz,Ligue 2
+Demme Diego,MD,4.9160504,6.0,6.0,Napoli,Serie A
+Oxlade-Chamberlain Alex,MO,4.9126086,7.0,8.0,Liverpool,Premiere League
+Soucek Tomás,MD,4.9125404,21.0,24.0,West Ham,Premiere League
+Zortea Nadir,MD,4.9118404,8.0,11.0,Atalanta,Serie A
+Depussay Emeric,MO,4.9080405,7.0,9.0,Bordeaux,Ligue 2
+de la Torre Luca,MO,4.907181,7.0,7.0,Celta,Liga
+Marin Razvan,MD,4.905753,10.0,12.0,Empoli,Serie A
+Lázaro,MO,4.904395,10.0,10.0,Almería,Liga
+Camblan Axel,MO,4.9029303,6.0,7.0,Brest,Ligue 1
+Baba Iddrisu,MD,4.9028096,10.0,10.0,Mallorca,Liga
+Ilkhan Emirhan,MO,4.9013515,7.0,7.0,Torino,Serie A
+Cassubie Yohan,MD,4.900253,1.0,3.0,Niort,Ligue 2
+Benassi Marco,MO,4.896812,1.0,1.0,Fiorentina,Serie A
+Aouchiche Adil,MO,4.8967347,7.0,7.0,FC Lorient,Ligue 1
+Benchamma Samy,MD,4.894514,9.0,10.0,Niort,Ligue 2
+Dendoncker Leander,MD,4.8939357,10.0,13.0,Aston Villa,Premiere League
+Tapia Renato,MD,4.887359,8.0,8.0,Celta,Liga
+Pérez Carles,MO,4.8861265,9.0,9.0,Celta,Liga
+Isola Baptiste,MO,4.8849216,5.0,10.0,Grenoble,Ligue 2
+Armstrong Stuart,MO,4.884878,10.0,11.0,Southampton,Premiere League
+Bonnet Alexandre,MO,4.884761,12.0,12.0,Quevilly RM,Ligue 2
+Price Isaac,MO,4.880071,1.0,1.0,Everton,Premiere League
+Gueye Lamine,MO,4.8799725,14.0,19.0,FC Metz,Ligue 2
+Pedro Neto,MO,4.878705,6.0,8.0,Wolverhampton,Premiere League
+Kulusevski Dejan,MO,4.878336,15.0,20.0,Tottenham,Premiere League
+Nomel Landry,MO,4.8774686,7.0,7.0,Valenciennes,Ligue 2
+Camara Mohamed,MD,4.8766384,14.0,16.0,AS Monaco,Ligue 1
+Bassi Amine,MO,4.8757873,5.0,8.0,FC Metz,Ligue 2
+Ferhaoui Ryan,MD,4.875486,7.0,9.0,Laval,Ligue 2
+Baiye Brandon,MD,4.875094,6.0,6.0,Clermont,Ligue 1
+Ocampo Brian,MO,4.8745875,11.0,12.0,Cádiz,Liga
+Schur Kévin,MO,4.874195,9.0,9.0,SC Bastia,Ligue 2
+Murphy Jacob,MO,4.8714213,12.0,12.0,Newcastle,Premiere League
+Vranckx Aster,MD,4.86835,8.0,8.0,Milan,Serie A
+Rajot Lorenzo,MO,4.8672,11.0,11.0,Rodez AF,Ligue 2
+Zanimacchia Luca,MO,4.8666763,9.0,9.0,Cremonese,Serie A
+Josan,MO,4.8659015,10.0,10.0,Elche,Liga
+Aiki Ayman,MO,4.862477,5.0,8.0,Saint-Étienne,Ligue 2
+Perrin Gaetan,MO,4.860969,11.0,11.0,AJ Auxerre,Ligue 1
+Diani Djibril,MD,4.860056,13.0,17.0,SM Caen,Ligue 2
+Delpech Leon,MD,4.8563,9.0,10.0,Nimes O.,Ligue 2
+Danilo Pereira,MD,4.854132,13.0,14.0,Paris SG,Ligue 1
+Cornet Maxwel,MO,4.852161,9.0,11.0,West Ham,Premiere League
+Christie Ryan,MO,4.851687,9.0,9.0,Bournemouth,Premiere League
+Hamouma Romain,MO,4.8481827,9.0,9.0,AC Ajaccio,Ligue 1
+Escalante Gonzalo,MD,4.8470106,9.0,9.0,Cremonese,Serie A
+Zarraga Oier,MO,4.8469048,8.0,8.0,Athletic,Liga
+Barberis Andrea,MD,4.8461742,7.0,7.0,Monza,Serie A
+Canales Sergio,MO,4.8405957,17.0,24.0,Betis,Liga
+Haas Nicolas,MD,4.8395495,11.0,11.0,Empoli,Serie A
+Pereira De Sa Roli,MO,4.8351393,7.0,9.0,Sochaux,Ligue 2
+Pobega Tommaso,MD,4.831899,10.0,12.0,Milan,Serie A
+Benrahou Yassine,MO,4.8311477,6.0,6.0,Nimes O.,Ligue 2
+Gomis Iron,MD,4.82873,12.0,14.0,Amiens SC,Ligue 2
+Savignac Noa,MO,4.8282437,1.0,1.0,Rodez AF,Ligue 2
+Gonzàlez Joan,MO,4.8241353,14.0,16.0,Lecce,Serie A
+Liénard Dimitri,MO,4.823489,12.0,13.0,Strasbourg,Ligue 1
+McNeil Dwight,MO,4.8221364,13.0,19.0,Everton,Premiere League
+Hjulmand Morten,MO,4.8207245,17.0,19.0,Lecce,Serie A
+Olaitan Junior,MO,4.8188157,9.0,10.0,Niort,Ligue 2
+Lemina Mario,MD,4.8168116,8.0,15.0,Wolverhampton,Premiere League
+Malsa Mickaël,MD,4.8166437,5.0,5.0,Valladolid,Liga
+Pozo José Ángel,MO,4.815823,4.0,4.0,Rayo Vallecano,Liga
+Livolant Jérémy,MO,4.815241,26.0,45.0,Guingamp,Ligue 2
+Phillips Kalvin,MD,4.8147545,1.0,1.0,Man. City,Premiere League
+Beusnard Steeve,MO,4.8128448,14.0,20.0,Pau FC,Ligue 2
+Harris Luke,MO,4.8122783,3.0,3.0,Fulham,Premiere League
+Maksimovic Nemanja,MD,4.8084755,11.0,12.0,Getafe,Liga
+Genreau Denis,MO,4.8076057,5.0,5.0,Toulouse FC,Ligue 1
+Confais Alois,MD,4.806667,8.0,10.0,Havre AC,Ligue 2
+Puigmal Arnau,MD,4.8059297,8.0,8.0,Almería,Liga
+Cimignani Yanis,MO,4.805879,5.0,5.0,AC Ajaccio,Ligue 1
+Radovanovic Ivan,MD,4.804964,11.0,11.0,Salernitana,Serie A
+Pasalic Mario,MO,4.8023605,26.0,32.0,Atalanta,Serie A
+Lacoux Tom,MD,4.7969513,12.0,17.0,Bordeaux,Ligue 2
+Rothwell Joe,MD,4.7952323,4.0,4.0,Bournemouth,Premiere League
+Duncan Alfred,MD,4.7946973,10.0,10.0,Fiorentina,Serie A
+Forshaw Adam,MD,4.794438,1.0,1.0,Leeds,Premiere League
+Iwobi Alex,MO,4.791666,14.0,17.0,Everton,Premiere League
+Dembélé Siriki,MO,4.7913513,1.0,1.0,Bournemouth,Premiere League
+Moncayola Jon,MD,4.789885,10.0,15.0,Osasuna,Liga
+Domingos Quina,MO,4.7878704,8.0,8.0,Elche,Liga
+Schouten Jerdy,MD,4.7844815,9.0,9.0,Bologna,Serie A
+Linguet Allan,MD,4.7839246,11.0,16.0,Valenciennes,Ligue 2
+Saelemaekers Alexis,MD,4.7806406,6.0,8.0,Milan,Serie A
+Lazaro Valentino,MO,4.780083,8.0,9.0,Torino,Serie A
+Molina Salvatore,MD,4.7795143,1.0,1.0,Monza,Serie A
+Kovalenko Viktor,MO,4.7781878,5.0,5.0,Spezia,Serie A
+Pearson Ben,MD,4.77619,5.0,5.0,Bournemouth,Premiere League
+Portu,MO,4.776043,11.0,12.0,Getafe,Liga
+Delaurier Logan,MO,4.7713313,7.0,10.0,Bordeaux,Ligue 2
+Campbell Chem,MO,4.7684517,1.0,3.0,Wolverhampton,Premiere League
+Muyumba Tristan,MD,4.7576427,11.0,14.0,Guingamp,Ligue 2
+Morcillo Jon,MO,4.7556906,6.0,6.0,Athletic,Liga
+Milanese Tommaso,MO,4.7514086,1.0,1.0,Cremonese,Serie A
+Lozano Pol,MD,4.748452,6.0,6.0,Espanyol,Liga
+Sabiri Abdelhamid,MO,4.7484355,6.0,7.0,Sampdoria,Serie A
+Labeau Lascary Rémy,MD,4.7482576,3.0,3.0,RC Lens,Ligue 1
+Ndombélé Tanguy,MD,4.74786,12.0,14.0,Napoli,Serie A
+Talal Amine,MO,4.7456937,8.0,9.0,SC Bastia,Ligue 2
+Diarra Mamady,MO,4.7431116,1.0,1.0,Cádiz,Liga
+Báez Jaime,MO,4.7416887,1.0,1.0,Cremonese,Serie A
+Mendy Nampalys,MD,4.7414794,10.0,10.0,Leicester,Premiere League
+Louiserre Dylan,MD,4.7413445,13.0,20.0,Guingamp,Ligue 2
+Vincent Christophe,MD,4.735282,11.0,14.0,SC Bastia,Ligue 2
+Damsgaard Mikkel,MO,4.734757,9.0,9.0,Brentford,Premiere League
+Mohamed Iyad,MD,4.734708,1.0,1.0,SM Caen,Ligue 2
+Iling-Junior Samuel,MO,4.734288,3.0,4.0,Juventus,Serie A
+Doucouré Cheick Oumar,MD,4.731429,12.0,13.0,Crystal Palace,Premiere League
+Vieira Ronaldo,MD,4.731328,9.0,9.0,Sampdoria,Serie A
+Savanier Téji,MO,4.7309866,33.0,40.0,Montpellier,Ligue 1
+Joelinton,MO,4.7291236,17.0,23.0,Newcastle,Premiere League
+Lucas Moura,MO,4.7278657,8.0,8.0,Tottenham,Premiere League
+Pjaca Marko,MO,4.724464,7.0,7.0,Empoli,Serie A
+Colpani Andrea,MD,4.7197223,10.0,10.0,Monza,Serie A
+Jean Lucas,MD,4.7148876,3.0,4.0,AS Monaco,Ligue 1
+Koleosho Luka,MO,4.7146254,1.0,1.0,Espanyol,Liga
+Almirón Miguel,MO,4.714334,24.0,49.0,Newcastle,Premiere League
+Bare Keidi,MO,4.7138658,9.0,9.0,Espanyol,Liga
+Rabiot Adrien,MD,4.709455,19.0,28.0,Juventus,Serie A
+Sessegnon Ryan,MO,4.7084684,10.0,12.0,Tottenham,Premiere League
+Fede San Emeterio,MD,4.6937923,10.0,10.0,Cádiz,Liga
+Diakité Check-Oumar,MD,4.6920176,7.0,7.0,Havre AC,Ligue 2
+Sow Noé,MD,4.686855,9.0,11.0,Pau FC,Ligue 2
+Soler Carlos,MO,4.683023,13.0,15.0,Paris SG,Ligue 1
+Tetê,MO,4.6824317,22.0,28.0,OL,Ligue 1
+Amadou Ibrahim,MD,4.680667,6.0,7.0,Angers SCO,Ligue 1
+Ponceau Julien,MO,4.67977,11.0,12.0,FC Lorient,Ligue 1
+Thioune Ousseynou,MD,4.676629,8.0,10.0,Dijon FCO,Ligue 2
+Vencedor Unai,MD,4.6755967,7.0,7.0,Athletic,Liga
+Zeneli Arbër,MO,4.6751103,11.0,11.0,Reims,Ligue 1
+Blanco Antonio,MD,4.6736755,1.0,2.0,Cádiz,Liga
+Adeline Martin,MO,4.6602745,1.0,1.0,Reims,Ligue 1
+Lingard Jesse,MO,4.6601386,9.0,9.0,Nottingham Forest,Premiere League
+D'Alessandro Marco,MO,4.658547,6.0,6.0,Monza,Serie A
+Merghem Mehdi,MO,4.6535254,7.0,7.0,Guingamp,Ligue 2
+Barthelmé Maxime,MO,4.6526017,12.0,16.0,Guingamp,Ligue 2
+Odobert Wilson,MO,4.652174,11.0,12.0,Troyes,Ligue 1
+Ellertsson Mikael,MD,4.6493344,6.0,6.0,Spezia,Serie A
+Coco Marcus,MO,4.6453204,9.0,9.0,FC Nantes,Ligue 1
+Torres Ferran,MO,4.6393104,14.0,22.0,Barcelona,Liga
+Milner James,MD,4.635397,9.0,9.0,Liverpool,Premiere League
+David Florian,MO,4.626023,1.0,1.0,Rodez AF,Ligue 2
+Payet Dimitri,MO,4.6202908,32.0,37.0,OM,Ligue 1
+Claude-Maurice Alexis,MO,4.620123,12.0,14.0,RC Lens,Ligue 1
+Lukic Sasa,MD,4.614198,18.0,21.0,Torino,Serie A
+Thiago,MD,4.612137,12.0,16.0,Liverpool,Premiere League
+Lameck Banda,MO,4.6113453,12.0,12.0,Lecce,Serie A
+Fornals Pablo,MO,4.6113405,17.0,19.0,West Ham,Premiere League
+Gharbi Ismaël,MO,4.6101966,3.0,3.0,Paris SG,Ligue 1
+Terracciano Filippo,MD,4.6079006,7.0,7.0,Verona,Serie A
+Michel Florian,MO,4.604626,1.0,2.0,Grenoble,Ligue 2
+Thomasson Adrien,MO,4.602008,18.0,21.0,RC Lens,Ligue 1
+Bernardo Silva,MO,4.60013,25.0,34.0,Man. City,Premiere League
+Sangaré Gustavo,MD,4.595624,14.0,15.0,Quevilly RM,Ligue 2
+Sansone Nicola,MO,4.592453,5.0,5.0,Bologna,Serie A
+Testud Kévin,MO,4.592363,11.0,14.0,FC Annecy,Ligue 2
+Oyarzabal Mikel,MO,4.5918174,4.0,7.0,Real Sociedad,Liga
+Monconduit Thomas,MD,4.590796,11.0,15.0,Saint-Étienne,Ligue 2
+Gray Demarai,MO,4.577735,13.0,16.0,Everton,Premiere League
+Makengo Jean-Victor,MD,4.5754275,12.0,12.0,Udinese,Serie A
+Renato Sanches,MO,4.571427,12.0,13.0,Paris SG,Ligue 1
+Camara Mady,MD,4.568842,8.0,8.0,Roma,Serie A
+Bruno Guimarães,MD,4.566927,21.0,30.0,Newcastle,Premiere League
+Kastanos Grigoris,MO,4.566546,6.0,6.0,Salernitana,Serie A
+Valoti Mattia,MO,4.566235,4.0,4.0,Monza,Serie A
+Raveloson Rayan,MD,4.5644245,9.0,9.0,AJ Auxerre,Ligue 1
+Rincón Tomás,MD,4.558169,10.0,13.0,Sampdoria,Serie A
+Rosario Pablo,MD,4.555704,10.0,12.0,OGC Nice,Ligue 1
+Abergel Laurent,MD,4.5456195,11.0,12.0,FC Lorient,Ligue 1
+Dembélé Karamoko,MO,4.5392337,7.0,9.0,Brest,Ligue 1
+Benrahma Saïd,MO,4.537809,18.0,21.0,West Ham,Premiere League
+Diarra Souleymane,MO,4.5373764,8.0,8.0,Guingamp,Ligue 2
+Corona Jesús,MO,4.532719,1.0,2.0,Sevilla,Liga
+Djuricic Filip,MO,4.5296593,11.0,14.0,Sampdoria,Serie A
+Kenedy,MO,4.5242968,5.0,5.0,Valladolid,Liga
+Tete Morente,MO,4.5155225,10.0,10.0,Elche,Liga
+Politano Matteo,MO,4.512852,19.0,24.0,Napoli,Serie A
+Kostic Filip,MO,4.5054374,18.0,23.0,Juventus,Serie A
+Jeno Jekob,MD,4.505184,8.0,10.0,Grenoble,Ligue 2
+Pablo Rodríguez,MO,4.5000777,4.0,4.0,Lecce,Serie A
+Hrustic Ajdin,MD,4.4968505,4.0,4.0,Verona,Serie A
+Jones Curtis,MO,4.494964,7.0,8.0,Liverpool,Premiere League
+Chalobah Nathaniel,MD,4.49476,1.0,1.0,Fulham,Premiere League
+Yaméogo Bachirou,MO,4.490743,1.0,1.0,Grenoble,Ligue 2
+Listkowski Marcin,MO,4.490743,1.0,1.0,Lecce,Serie A
+Orsic Mislav,MO,4.490743,8.0,9.0,Southampton,Premiere League
+Gueguin Axel,MO,4.490743,1.0,1.0,Montpellier,Ligue 1
+White Harvey,MD,4.490743,1.0,1.0,Tottenham,Premiere League
+Jean Dany,MD,4.490743,1.0,1.0,Strasbourg,Ligue 1
+Roca Joel,MO,4.490743,1.0,1.0,Girona,Liga
+Ibrahim Fofana,MD,4.490743,3.0,3.0,Amiens SC,Ligue 2
+Gilmour Billy,MD,4.484224,7.0,7.0,Brighton,Premiere League
+Janelt Vitaly,MD,4.480341,13.0,16.0,Brentford,Premiere League
+McKennie Weston,MD,4.464809,11.0,15.0,Juventus,Serie A
+Davies Tom,MD,4.45799,5.0,5.0,Everton,Premiere League
+Winks Harry,MD,4.45031,1.0,1.0,Sampdoria,Serie A
+Roca Marc,MD,4.448213,12.0,14.0,Leeds,Premiere League
+Ndidi Wilfred,MD,4.4397244,8.0,10.0,Leicester,Premiere League
+Kanouté Franck,MD,4.437079,16.0,21.0,Sochaux,Ligue 2
+Tardieu Florian,MD,4.4130783,15.0,18.0,Troyes,Ligue 1
+Hughes Will,MD,4.4129887,8.0,8.0,Crystal Palace,Premiere League
+Sinisterra Luis,MO,4.4043283,12.0,14.0,Leeds,Premiere League
+Yepes Gerard,MD,4.4035535,7.0,7.0,Sampdoria,Serie A
+Diop Sofiane,MO,4.393858,11.0,13.0,OGC Nice,Ligue 1
+Zerbin Alessio,MO,4.3811803,3.0,3.0,Napoli,Serie A
+Ferri Jordan,MD,4.3800235,13.0,15.0,Montpellier,Ligue 1
+Doku Jérémy,MO,4.354316,9.0,9.0,Rennes,Ligue 1
+Gabriel Martinelli,MO,4.3355064,18.0,40.0,Arsenal,Premiere League
+Ekitike Hugo,MO,4.3323402,13.0,13.0,Paris SG,Ligue 1
+Faraoni Marco,MO,4.328029,8.0,12.0,Verona,Serie A
+Éderson,MO,4.309345,12.0,15.0,Atalanta,Serie A
+Kakuta Gaël,MO,4.30362,15.0,28.0,Amiens SC,Ligue 2
+Diliberto Noah,MD,4.29589,16.0,19.0,Valenciennes,Ligue 2
+Chavalerin Xavier,MD,4.2915764,16.0,16.0,Troyes,Ligue 1
+Boé-Kane Yann,MD,4.2793922,8.0,9.0,Quevilly RM,Ligue 2
+Fabinho,MD,4.278303,16.0,20.0,Liverpool,Premiere League
+Bourabia Mehdi,MD,4.2763395,13.0,14.0,Spezia,Serie A
+John Donald,MD,4.2757235,1.0,1.0,Elche,Liga
+Cissé Sidi,MO,4.274548,1.0,1.0,Niort,Ligue 2
+Nisic Jovan,MD,4.2725496,8.0,8.0,Pau FC,Ligue 2
+Gakpo Cody,MO,4.272283,14.0,27.0,Liverpool,Premiere League
+El Jaouhari Madyen,MO,4.2701764,1.0,5.0,FC Annecy,Ligue 2
+Davitashvili Zuriko,MD,4.259483,13.0,19.0,Bordeaux,Ligue 2
+Chergui Samir,MO,4.2541094,9.0,13.0,Paris FC,Ligue 2
+Léris Mehdi,MO,4.247733,11.0,11.0,Sampdoria,Serie A
+Maldini Daniel,MO,4.247007,9.0,14.0,Spezia,Serie A
+Foden Phil,MO,4.240183,35.0,52.0,Man. City,Premiere League
+Chahiri Mehdi,MO,4.237425,9.0,11.0,Paris FC,Ligue 2
+Solomon Manor,MO,4.235436,1.0,1.0,Fulham,Premiere League
+Ruiz Jean,MD,4.2289634,11.0,13.0,Pau FC,Ligue 2
+Martín Ander,MO,4.203831,4.0,4.0,Real Sociedad,Liga
+Mandouki Cyril,MD,4.1923876,11.0,13.0,Paris FC,Ligue 2
+Nouri Riad,MO,4.1787305,11.0,11.0,AC Ajaccio,Ligue 1
+Nordin Arnaud,MO,4.1741104,14.0,16.0,Montpellier,Ligue 1
+Pépé Nicolas,MO,4.1696362,21.0,29.0,OGC Nice,Ligue 1
+Billing Philip,MD,4.164117,15.0,19.0,Bournemouth,Premiere League
+Vilhena Tonny,MD,4.161582,12.0,14.0,Salernitana,Serie A
+Henderson Jordan,MD,4.156353,13.0,17.0,Liverpool,Premiere League
+Goncalves Bryan,MD,4.1293325,12.0,15.0,Laval,Ligue 2
+Elliott Harvey,MO,4.0914674,14.0,17.0,Liverpool,Premiere League
+Lavia Roméo,MD,4.0492177,5.0,5.0,Southampton,Premiere League
+El Hassani Nacim,MD,4.025549,1.0,1.0,Niort,Ligue 2
+Agudelo Kevin,MO,4.02354,8.0,8.0,Spezia,Serie A
+Bernauer Maxime,MD,3.9998412,14.0,17.0,Paris FC,Ligue 2
+Barnes Harvey,MO,3.9903445,20.0,28.0,Leicester,Premiere League
+Eze Eberechi,MO,3.9374895,16.0,19.0,Crystal Palace,Premiere League
+Khazri Wahbi,MO,3.913053,19.0,23.0,Montpellier,Ligue 1
+Philippe Coutinho,MO,3.8931532,12.0,19.0,Aston Villa,Premiere League
+Saint-Maximin Allan,MO,3.8855462,10.0,14.0,Newcastle,Premiere League
+Bayala Cyrille,MO,3.8846169,10.0,12.0,AC Ajaccio,Ligue 1
+Camara Ousmane,MD,3.8714108,1.0,1.0,Angers SCO,Ligue 1
+Capelle Pierrick,MO,3.8669167,12.0,12.0,Angers SCO,Ligue 1
+Aaronson Brenden,MO,3.8502285,12.0,14.0,Leeds,Premiere League
+Zaïre-Emery Warren,MD,3.74352,7.0,7.0,Paris SG,Ligue 1
+Elyounoussi Mohamed,MO,3.6302154,15.0,17.0,Southampton,Premiere League
+Touré Birama,MD,3.6141849,12.0,14.0,AJ Auxerre,Ligue 1
+Chabrolle Florian,MO,3.5299742,1.0,1.0,AC Ajaccio,Ligue 1
+Gueye Idrissa,MD,3.5237923,14.0,18.0,Everton,Premiere League
+Buadés Lucas,MO,3.5202882,1.0,1.0,Rodez AF,Ligue 2
+Riou Matthis,MD,3.5001602,10.0,11.0,Guingamp,Ligue 2
+Olise Michael,MO,3.1678,15.0,17.0,Crystal Palace,Premiere League
+Mangani Thomas,MD,2.5717046,11.0,13.0,AC Ajaccio,Ligue 1
+Manu Morlanes Manuel,MD,0.89308214,5.0,5.0,Villarreal,Liga

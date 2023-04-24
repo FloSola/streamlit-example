@@ -1,0 +1,158 @@
+Joueur,Poste,prediction_label,Cote,Enchère moy,Club,Championnat
+Larsonneur Gautier,G,7.136309,20.0,24.0,Saint-Étienne,Ligue 2
+Callens Thomas,G,7.055981,7.0,8.0,FC Annecy,Ligue 2
+Lafont Alban,G,6.9474354,19.0,21.0,FC Nantes,Ligue 1
+Martínez Emiliano,G,6.8814087,17.0,19.0,Aston Villa,Premiere League
+Montipò Lorenzo,G,6.7813077,17.0,17.0,Verona,Serie A
+Escales Florian,G,6.731766,15.0,17.0,FC Annecy,Ligue 2
+Milinkovic-Savic Vanja,G,6.7128572,16.0,17.0,Torino,Serie A
+Raya David,G,6.7109613,18.0,22.0,Brentford,Premiere League
+Begovic Asmir,G,6.687052,7.0,7.0,Everton,Premiere League
+Leno Bernd,G,6.637472,18.0,22.0,Fulham,Premiere League
+Pope Nick,G,6.5803046,18.0,27.0,Newcastle,Premiere League
+Diouf Yehvann,G,6.434873,17.0,19.0,Reims,Ligue 1
+Sels Matz,G,6.4232907,14.0,17.0,Strasbourg,Ligue 1
+Allagbé Saturnin,G,6.4193244,7.0,7.0,Dijon FCO,Ligue 2
+Boucher Zacharie,G,6.3770866,7.0,8.0,SC Bastia,Ligue 2
+Pacheco Fernando,G,6.1853757,7.0,8.0,Almería,Liga
+Lloris Hugo,G,6.162091,16.0,19.0,Tottenham,Premiere League
+Placide Johny,G,6.0965385,15.0,15.0,SC Bastia,Ligue 2
+Musso Juan,G,6.077349,14.0,18.0,Atalanta,Serie A
+Hautbois Maxime,G,6.063369,7.0,8.0,Laval,Ligue 2
+Gurtner Régis,G,6.0592937,17.0,20.0,Amiens SC,Ligue 2
+Ledesma Jeremías,G,6.046656,19.0,20.0,Cádiz,Liga
+Arrizabalaga Kepa,G,6.0310144,14.0,17.0,Chelsea,Premiere League
+Quilichini Ghjuvanni,G,6.029889,3.0,4.0,AC Ajaccio,Ligue 1
+Henderson Dean,G,6.0270066,14.0,16.0,Nottingham Forest,Premiere League
+Bizot Marco,G,6.000186,15.0,16.0,Brest,Ligue 1
+Pepe Reina,G,5.9260283,14.0,14.0,Villarreal,Liga
+Michel Mathieu,G,5.9026213,14.0,19.0,Niort,Ligue 2
+Rui Patrício,G,5.8943996,15.0,18.0,Roma,Serie A
+Ramsdale Aaron,G,5.8867154,17.0,24.0,Arsenal,Premiere League
+Olliero Alexandre,G,5.885975,17.0,19.0,Pau FC,Ligue 2
+Donnarumma Gianluigi,G,5.868135,17.0,22.0,Paris SG,Ligue 1
+Perin Mattia,G,5.8675237,7.0,8.0,Juventus,Serie A
+ter Stegen Marc-André,G,5.8544283,17.0,23.0,Barcelona,Liga
+Mandanda Steve,G,5.853891,15.0,18.0,Rennes,Ligue 1
+Gollini Pierluigi,G,5.8460608,7.0,7.0,Fiorentina,Serie A
+Lunin Andriy,G,5.8457785,7.0,7.0,Real Madrid,Liga
+Meret Alex,G,5.84306,18.0,22.0,Napoli,Serie A
+Provedel Ivan,G,5.841161,19.0,23.0,Lazio,Serie A
+Soria David,G,5.819834,18.0,18.0,Getafe,Liga
+Martínez Fernando,G,5.814799,18.0,20.0,Almería,Liga
+Masip Jordi,G,5.761807,15.0,16.0,Valladolid,Liga
+Bravo Claudio,G,5.756668,7.0,8.0,Betis,Liga
+Oukidja Alexandre,G,5.747668,15.0,17.0,FC Metz,Ligue 2
+Rajkovic Predrag,G,5.7093086,16.0,19.0,Mallorca,Liga
+Dias Lucas,G,5.6906013,7.0,7.0,Nimes O.,Ligue 2
+Gazzaniga Paulo,G,5.6726384,14.0,14.0,Girona,Liga
+Sauvage Alexis,G,5.6493874,13.0,16.0,Laval,Ligue 2
+Maignan Mike,G,5.6375155,13.0,20.0,Milan,Serie A
+Sepe Luigi,G,5.6298003,17.0,19.0,Salernitana,Serie A
+Dmitrovic Marko,G,5.628882,7.0,7.0,Sevilla,Liga
+Desmas Arthur,G,5.6208572,18.0,24.0,Havre AC,Ligue 2
+Riou Rémy,G,5.569784,7.0,7.0,OL,Ligue 1
+Vicario Guglielmo,G,5.566876,20.0,22.0,Empoli,Serie A
+Rui Silva,G,5.563269,17.0,21.0,Betis,Liga
+Bounou Yassine,G,5.5570164,19.0,23.0,Sevilla,Liga
+Álex Remiro,G,5.555479,17.0,19.0,Real Sociedad,Liga
+Onana André,G,5.5433807,15.0,19.0,Inter,Serie A
+Radu Ionut,G,5.513617,7.0,10.0,Cremonese,Serie A
+Audero Emil,G,5.513384,15.0,17.0,Sampdoria,Serie A
+Samba Brice,G,5.502545,18.0,24.0,RC Lens,Ligue 1
+Ederson,G,5.4903655,17.0,20.0,Man. City,Premiere League
+Tatarusanu Ciprian,G,5.4850087,15.0,17.0,Milan,Serie A
+Mamardashvili Giorgi,G,5.480895,17.0,19.0,Valencia,Liga
+Schmeichel Kasper,G,5.4467826,15.0,17.0,OGC Nice,Ligue 1
+Terracciano Pietro,G,5.4083133,14.0,16.0,Fiorentina,Serie A
+Handanovic Samir,G,5.401732,7.0,9.0,Inter,Serie A
+Mandréa Anthony,G,5.38383,17.0,21.0,SM Caen,Ligue 2
+Silvestri Marco,G,5.3744273,16.0,18.0,Udinese,Serie A
+Badia Edgar,G,5.3736978,15.0,16.0,Elche,Liga
+Mvogo Yvon,G,5.3717213,7.0,15.0,FC Lorient,Ligue 1
+Bazunu Gavin,G,5.368082,14.0,15.0,Southampton,Premiere League
+Zoet Jeroen,G,5.3300133,13.0,13.0,Spezia,Serie A
+Blanco Rubén,G,5.329893,7.0,7.0,OM,Ligue 1
+Pegolo Gianluca,G,5.32449,7.0,7.0,Sassuolo,Serie A
+Oblak Jan,G,5.3184123,16.0,21.0,Atlético,Liga
+Courtois Thibaut,G,5.3113174,21.0,26.0,Real Madrid,Liga
+de Gea David,G,5.31096,16.0,19.0,Man. United,Premiere League
+Poussin Gaëtan,G,5.3006783,15.0,18.0,Bordeaux,Ligue 2
+Grbic Ivo,G,5.300165,7.0,7.0,Atlético,Liga
+Fernández Aitor,G,5.2969513,13.0,13.0,Osasuna,Liga
+Carnesecchi Marco,G,5.2879786,14.0,14.0,Cremonese,Serie A
+Fabianski Lukasz,G,5.2834635,18.0,21.0,West Ham,Premiere League
+Filipovic Ivan,G,5.2665772,10.0,13.0,Paris FC,Ligue 2
+Thuram-Ulien Yohann,G,5.2273974,7.0,8.0,Quevilly RM,Ligue 2
+Sportiello Marco,G,5.2151814,7.0,8.0,Atalanta,Serie A
+Costil Benoît,G,5.201628,15.0,17.0,AJ Auxerre,Ligue 1
+Simón Unai,G,5.186338,16.0,18.0,Athletic,Liga
+Bulka Marcin,G,5.173588,7.0,7.0,OGC Nice,Ligue 1
+Maubleu Brice,G,5.167557,19.0,27.0,Grenoble,Ligue 2
+Lemaître Nicolas,G,5.163386,18.0,34.0,Quevilly RM,Ligue 2
+Dupé Maxime,G,5.1606708,17.0,19.0,Toulouse FC,Ligue 1
+Diaw Mory,G,5.148529,16.0,18.0,Clermont,Ligue 1
+Dimitrievski Stole,G,5.1254997,17.0,17.0,Rayo Vallecano,Liga
+Marchesín Agustín,G,5.122492,14.0,15.0,Celta,Liga
+Fofana Yahia,G,5.1177044,7.0,13.0,Angers SCO,Ligue 1
+Chevalier Lucas,G,5.066936,15.0,17.0,LOSC,Ligue 1
+Nübel Alexander,G,5.0577626,20.0,23.0,AS Monaco,Ligue 1
+Herrera Sergio,G,5.0545797,7.0,14.0,Osasuna,Liga
+Álvaro Fernández Álvaro,G,5.053306,14.0,14.0,Espanyol,Liga
+Mendy Édouard,G,5.0196943,8.0,11.0,Chelsea,Premiere League
+Neto,G,5.018164,7.0,8.0,Bournemouth,Premiere League
+Fall Boubacar,G,5.003771,10.0,10.0,Saint-Étienne,Ligue 2
+Rodák Marek,G,4.9954777,7.0,7.0,Fulham,Premiere League
+Ba Ousmane,G,4.9810047,7.0,7.0,FC Metz,Ligue 2
+López Pau,G,4.954757,20.0,25.0,OM,Ligue 1
+Kamara Bingourou,G,4.934313,7.0,10.0,Montpellier,Ligue 1
+Bernardoni Paul,G,4.9164467,13.0,13.0,Angers SCO,Ligue 1
+Skorupski Lukasz,G,4.8887906,19.0,20.0,Bologna,Serie A
+Martín Juan Carlos,G,4.8636093,7.0,9.0,Girona,Liga
+Consigli Andrea,G,4.854196,14.0,17.0,Sassuolo,Serie A
+Cibois Sébastien,G,4.8541455,7.0,9.0,Rodez AF,Ligue 2
+Alemdar Dogan,G,4.853847,7.0,7.0,Rennes,Ligue 1
+Hennessey Wayne,G,4.8532314,7.0,7.0,Nottingham Forest,Premiere League
+Olsen Robin,G,4.853056,7.0,7.0,Aston Villa,Premiere League
+Sánchez Robert,G,4.8113613,16.0,18.0,Brighton,Premiere League
+Dreyer Matthieu,G,4.8107457,8.0,23.0,Saint-Étienne,Ligue 2
+José Sá,G,4.802644,15.0,18.0,Wolverhampton,Premiere League
+Gallon Gauthier,G,4.8016744,7.0,10.0,Troyes,Ligue 1
+Ochoa Guillermo,G,4.798801,13.0,15.0,Salernitana,Serie A
+Forster Fraser,G,4.7967,7.0,7.0,Tottenham,Premiere League
+Matis Carvalho Matis,G,4.741578,3.0,3.0,Montpellier,Ligue 1
+Lecomte Benjamin,G,4.6928205,7.0,14.0,Espanyol,Liga
+Aréola Alphonse,G,4.6740294,7.0,8.0,West Ham,Premiere League
+Di Gregorio Michele,G,4.644584,15.0,16.0,Monza,Serie A
+Zovko Petar,G,4.614443,3.0,3.0,Spezia,Serie A
+Reynet Baptiste,G,4.609213,17.0,19.0,Dijon FCO,Ligue 2
+Pentz Patrick,G,4.585005,7.0,7.0,Reims,Ligue 1
+Meslier Illan,G,4.5770044,17.0,20.0,Leeds,Premiere League
+Falcone Wladimiro,G,4.55498,18.0,22.0,Lecce,Serie A
+Gorgelin Mathieu,G,4.53922,7.0,8.0,Havre AC,Ligue 2
+Guaita Vicente,G,4.5337996,17.0,19.0,Crystal Palace,Premiere League
+Asenjo Sergio,G,4.491998,7.0,7.0,Valladolid,Liga
+Demarconnay Vincent,G,4.4830036,10.0,11.0,Paris FC,Ligue 2
+Léo Jardim,G,4.424086,7.0,8.0,LOSC,Ligue 1
+Lis Mateusz,G,4.405623,15.0,15.0,Troyes,Ligue 1
+Dragowski Bartlomiej,G,4.362996,7.0,10.0,Spezia,Serie A
+Omlin Jonas,G,4.330446,15.0,15.0,Montpellier,Ligue 1
+Caillard Marc-Aurèle,G,4.2863493,1.0,1.0,FC Metz,Ligue 2
+Anthony Lopes,G,4.2835946,17.0,20.0,OL,Ligue 1
+Szczesny Wojciech,G,4.2591753,17.0,24.0,Juventus,Serie A
+Travers Mark,G,4.1884327,13.0,13.0,Bournemouth,Premiere League
+Green Etienne,G,4.1778736,3.0,7.0,Saint-Étienne,Ligue 2
+M'Pasi Lionel,G,4.0097876,15.0,15.0,Rodez AF,Ligue 2
+Raveyre Noah,G,3.9776874,1.0,1.0,Saint-Étienne,Ligue 2
+Sollacaro François-Joseph,G,3.8861008,7.0,7.0,AC Ajaccio,Ligue 1
+Alisson,G,3.8624668,19.0,23.0,Liverpool,Premiere League
+Luís Maximiano,G,3.724514,7.0,7.0,Lazio,Serie A
+Maraval Axel,G,3.688986,17.0,18.0,Nimes O.,Ligue 2
+Prévot Maxence,G,3.666886,17.0,23.0,Sochaux,Ligue 2
+Mannone Vito,G,3.622456,15.0,15.0,FC Lorient,Ligue 1
+Ward Danny,G,3.594957,18.0,20.0,Leicester,Premiere League
+Konaté Hillel,G,3.20805,7.0,7.0,Valenciennes,Ligue 2
+Basilio Enzo,G,3.0977736,16.0,18.0,Guingamp,Ligue 2
+Pickford Jordan,G,3.0369284,17.0,19.0,Everton,Premiere League
+Diego López Diego,G,2.89958,7.0,7.0,Rayo Vallecano,Liga
+Leroy Benjamin,G,2.519561,14.0,15.0,AC Ajaccio,Ligue 1

@@ -1,0 +1,821 @@
+Joueur,Poste,prediction_label,Cote,Enchère moy,Club,Championnat
+Di Lorenzo Giovanni,DL,7.072269,18.0,23.0,Napoli,Serie A
+Disasi Axel,DC,6.824543,17.0,21.0,AS Monaco,Ligue 1
+Andrei Girotto,DC,6.791869,22.0,25.0,FC Nantes,Ligue 1
+Aurier Serge,DL,6.779006,10.0,12.0,Nottingham Forest,Premiere League
+Doherty Matt,DL,6.749745,10.0,12.0,Tottenham,Premiere League
+Schär Fabian,DC,6.724142,14.0,21.0,Newcastle,Premiere League
+Mings Tyrone,DC,6.6747117,11.0,14.0,Aston Villa,Premiere League
+Mendy Bissenty,DC,6.6671915,11.0,13.0,FC Annecy,Ligue 2
+Udol Matthieu,DL,6.6624312,14.0,18.0,FC Metz,Ligue 2
+Van Den Kerkhof Kévin,DL,6.6206317,16.0,22.0,SC Bastia,Ligue 2
+Doig Josh,DL,6.6188135,9.0,10.0,Verona,Serie A
+Corchia Sébastien,DL,6.617272,11.0,11.0,FC Nantes,Ligue 1
+Colwill Levi,DC,6.5603647,6.0,7.0,Brighton,Premiere League
+Collins Nathan,DC,6.5582247,8.0,9.0,Wolverhampton,Premiere League
+João Moutinho,DL,6.5399084,7.0,8.0,Spezia,Serie A
+Traoré Hamari,DL,6.5370193,17.0,20.0,Rennes,Ligue 1
+Vanderson,DL,6.528032,13.0,15.0,AS Monaco,Ligue 1
+Kolasinac Sead,DL,6.521801,13.0,13.0,OM,Ligue 1
+Baudry Marvin,DC,6.5198355,9.0,11.0,Laval,Ligue 2
+Depaoli Fabio,DL,6.4538007,10.0,10.0,Verona,Serie A
+Mendy Formose,DC,6.355744,17.0,22.0,Amiens SC,Ligue 2
+Kaïboué Kylian,DL,6.3392334,12.0,14.0,SC Bastia,Ligue 2
+Estupiñán Pervis,DL,6.3383937,11.0,12.0,Brighton,Premiere League
+Renan Lodi,DL,6.337005,11.0,11.0,Nottingham Forest,Premiere League
+Zouma Kurt,DC,6.3286586,14.0,16.0,West Ham,Premiere League
+Pinnock Ethan,DC,6.262119,9.0,12.0,Brentford,Premiere League
+Mwanga Junior,DC,6.2557116,11.0,15.0,Bordeaux,Ligue 2
+Stones John,DC,6.2539635,9.0,11.0,Man. City,Premiere League
+Smalling Chris,DC,6.217335,21.0,25.0,Roma,Serie A
+Adarabioyo Tosin,DC,6.203153,8.0,9.0,Fulham,Premiere League
+Worrall Joe,DC,6.198864,8.0,8.0,Nottingham Forest,Premiere League
+Dramé Issiar,DC,6.1737976,8.0,8.0,SC Bastia,Ligue 2
+Jean Gaby,DL,6.170579,11.0,13.0,FC Annecy,Ligue 2
+Veltman Joël,DL,6.15373,9.0,10.0,Brighton,Premiere League
+Centonze Fabien,DL,6.148233,9.0,9.0,FC Nantes,Ligue 1
+Rocchia Christopher,DL,6.1174493,3.0,5.0,Dijon FCO,Ligue 2
+Ehizibue Kingsley,DL,6.1132364,9.0,9.0,Udinese,Serie A
+Haïdara Massadio,DL,6.079754,16.0,18.0,RC Lens,Ligue 1
+Thiago Silva,DC,6.070014,18.0,23.0,Chelsea,Premiere League
+Truffert Adrien,DL,6.060665,13.0,15.0,Rennes,Ligue 1
+Rodrigo Becão,DC,6.0562716,10.0,12.0,Udinese,Serie A
+Zima David,DC,6.053287,9.0,10.0,Torino,Serie A
+Mancini Gianluca,DC,6.030159,12.0,15.0,Roma,Serie A
+Danilo,MO,6.029889,5.0,5.0,Nottingham Forest,Premiere League
+Dunk Lewis,DC,6.013347,10.0,12.0,Brighton,Premiere League
+Ibañez,DC,6.0046782,15.0,19.0,Roma,Serie A
+Kilman Maximilian,DC,6.003804,11.0,13.0,Wolverhampton,Premiere League
+Pérez Nehuén,DC,5.999163,13.0,15.0,Udinese,Serie A
+Mbemba Chancel,DC,5.9855275,16.0,21.0,OM,Ligue 1
+Sangante Arouna,DC,5.973742,15.0,20.0,Havre AC,Ligue 2
+Éder Militão,DC,5.971318,28.0,33.0,Real Madrid,Liga
+Kouyaté Boubakar,DC,5.9688134,10.0,12.0,FC Metz,Ligue 2
+Juan Jesus,DC,5.9668617,10.0,12.0,Napoli,Serie A
+Tete Kenny,DL,5.946823,7.0,9.0,Fulham,Premiere League
+Badiashile Benoît,DC,5.937744,13.0,21.0,Chelsea,Premiere League
+Danso Kevin,DC,5.9254127,23.0,28.0,RC Lens,Ligue 1
+Zedadka Akim,DL,5.918573,11.0,11.0,AJ Auxerre,Ligue 1
+Gigot Samuel,DC,5.9179626,14.0,14.0,OM,Ligue 1
+Martínez Lucas,DC,5.915845,13.0,15.0,Fiorentina,Serie A
+Yoro Leny,DC,5.9058948,1.0,2.0,LOSC,Ligue 1
+Cash Matty,DL,5.903245,10.0,11.0,Aston Villa,Premiere League
+Wooh Christopher,DC,5.902338,9.0,10.0,Rennes,Ligue 1
+Bijol Jaka,DC,5.8993883,14.0,16.0,Udinese,Serie A
+Neto Borges,DL,5.89842,13.0,14.0,Clermont,Ligue 1
+Theate Arthur,DC,5.897867,16.0,18.0,Rennes,Ligue 1
+Rodon Joe,DC,5.893629,7.0,11.0,Rennes,Ligue 1
+Nicolaisen Rasmus,DC,5.875498,11.0,12.0,Toulouse FC,Ligue 1
+Bueno Hugo,DC,5.8689356,7.0,7.0,Wolverhampton,Premiere League
+Koundé Jules,DC,5.8651714,16.0,22.0,Barcelona,Liga
+Agbadou Emmanuel,DC,5.8575625,13.0,13.0,Reims,Ligue 1
+Barbet Yoann,DC,5.8453,12.0,15.0,Bordeaux,Ligue 2
+Mário Rui,DL,5.839806,16.0,19.0,Napoli,Serie A
+Milenkovic Nikola,DC,5.8283825,14.0,16.0,Fiorentina,Serie A
+Kim Min-Jae,DC,5.8192,18.0,26.0,Napoli,Serie A
+Rodríguez Ricardo,DL,5.8189673,11.0,12.0,Torino,Serie A
+Ismajli Ardian,DC,5.8098135,11.0,13.0,Empoli,Serie A
+Rüdiger Antonio,DC,5.808465,22.0,28.0,Real Madrid,Liga
+Laporte Aymeric,DC,5.8046646,11.0,14.0,Man. City,Premiere League
+Antonee Robinson Antonee,DL,5.8027606,9.0,11.0,Fulham,Premiere League
+Coufal Vladimír,DL,5.798968,7.0,7.0,West Ham,Premiere League
+Lajugie Francois,DC,5.7917,11.0,14.0,FC Annecy,Ligue 2
+Fali Candé,DL,5.790151,13.0,17.0,FC Metz,Ligue 2
+Busi Maxime,DL,5.787115,7.0,7.0,Reims,Ligue 1
+Magnani Giangiacomo,DC,5.783836,6.0,6.0,Verona,Serie A
+Djiku Alexander,DC,5.7748623,14.0,15.0,Strasbourg,Ligue 1
+Yohan Tavares,DC,5.7685504,12.0,12.0,Laval,Ligue 2
+Konsa Ezri,DC,5.7653723,12.0,14.0,Aston Villa,Premiere League
+Maguire Harry,DC,5.764808,6.0,8.0,Man. United,Premiere League
+Seidu Alidu,DC,5.7631354,12.0,14.0,Clermont,Ligue 1
+Foket Thomas,DL,5.7613964,8.0,8.0,Reims,Ligue 1
+Bard Melvin,DL,5.756151,10.0,12.0,OGC Nice,Ligue 1
+Gregersen Stian,DC,5.7515225,13.0,17.0,Bordeaux,Ligue 2
+Mee Ben,DC,5.749746,15.0,18.0,Brentford,Premiere League
+Maripán Guillermo,DC,5.748478,13.0,16.0,AS Monaco,Ligue 1
+Koch Robin,DC,5.746877,9.0,10.0,Leeds,Premiere League
+Gusto Malo,DL,5.7443194,11.0,16.0,OL,Ligue 1
+Temanfo Arnold,DC,5.7443132,11.0,13.0,FC Annecy,Ligue 2
+Bastian Maxime,DL,5.742632,11.0,11.0,FC Annecy,Ligue 2
+Dimarco Federico,DL,5.738803,24.0,29.0,Inter,Serie A
+Balde Alejandro,DL,5.7374635,12.0,17.0,Barcelona,Liga
+Blanco Lautaro,DL,5.734985,1.0,1.0,Elche,Liga
+Ogbonna Angelo,DC,5.719983,1.0,2.0,West Ham,Premiere League
+Ekomié Jacques,DL,5.711391,1.0,3.0,Bordeaux,Ligue 2
+Christensen Andreas,DC,5.7052097,11.0,13.0,Barcelona,Liga
+Foyth Juan,DC,5.7031107,10.0,10.0,Villarreal,Liga
+Patric,DC,5.6993484,9.0,14.0,Lazio,Serie A
+Ferrari Gian Marco,DC,5.698533,9.0,11.0,Sassuolo,Serie A
+Bokele Malcom,DC,5.694506,12.0,15.0,Bordeaux,Ligue 2
+Hérelle Christophe,DC,5.685563,8.0,8.0,Brest,Ligue 1
+Todibo Jean-Clair,DC,5.684451,13.0,15.0,OGC Nice,Ligue 1
+Alonso Marcos,DL,5.675571,14.0,15.0,Barcelona,Liga
+Burn Dan,DC,5.673641,13.0,16.0,Newcastle,Premiere League
+Araújo Ronald,DC,5.6670485,11.0,20.0,Barcelona,Liga
+Augustinsson Ludwig,DL,5.66612,4.0,4.0,Aston Villa,Premiere League
+Ream Tim,DC,5.6658807,10.0,12.0,Fulham,Premiere League
+Buongiorno Alessandro,DC,5.6564937,11.0,11.0,Torino,Serie A
+Lindelöf Victor,DC,5.6547976,8.0,10.0,Man. United,Premiere League
+Perrin Lucas,DC,5.6483126,8.0,10.0,Strasbourg,Ligue 1
+Cooper Liam,DC,5.632395,11.0,12.0,Leeds,Premiere League
+Sow Saïdou,DL,5.6317716,4.0,4.0,Saint-Étienne,Ligue 2
+Cuffaut Joffrey,DL,5.6314707,25.0,31.0,Valenciennes,Ligue 2
+Ballo-Touré Fodé,DL,5.6296883,5.0,5.0,Milan,Serie A
+Appiah Dennis,DL,5.6281176,8.0,10.0,Saint-Étienne,Ligue 2
+Nuno Mendes,DL,5.624881,13.0,17.0,Paris SG,Ligue 1
+Chalobah Trevoh,DC,5.6201367,10.0,10.0,Chelsea,Premiere League
+Jeanvier Julian,DC,5.6151905,9.0,10.0,AJ Auxerre,Ligue 1
+Saliba William,DC,5.610922,15.0,25.0,Arsenal,Premiere League
+Giménez José,DC,5.6097317,11.0,14.0,Atlético,Liga
+Botman Sven,DC,5.608918,16.0,22.0,Newcastle,Premiere League
+Operi Christopher,DL,5.6040645,16.0,23.0,Havre AC,Ligue 2
+Caleta-Car Duje,DC,5.595856,9.0,11.0,Southampton,Premiere League
+Alaba David,DL,5.592639,24.0,32.0,Real Madrid,Liga
+Gatti Federico,DC,5.588015,9.0,10.0,Juventus,Serie A
+Diakité Bafodé,DC,5.5872,12.0,12.0,LOSC,Ligue 1
+Atal Youcef,DL,5.5860906,11.0,14.0,OGC Nice,Ligue 1
+Alba Jordi,DL,5.5789433,14.0,17.0,Barcelona,Liga
+Rugani Daniele,DC,5.5772023,3.0,3.0,Juventus,Serie A
+Ayling Luke,DL,5.5725746,9.0,9.0,Leeds,Premiere League
+Vojvoda Mërgim,DL,5.5707026,11.0,11.0,Torino,Serie A
+Izzo Armando,DC,5.5608025,11.0,12.0,Monza,Serie A
+Salisu Mohammed,DC,5.554123,11.0,12.0,Southampton,Premiere League
+Touré Zargo,DC,5.5530405,10.0,11.0,Dijon FCO,Ligue 2
+Cissé Ibrahim,DC,5.5477114,13.0,17.0,SM Caen,Ligue 2
+Bajcetic Stefan,DC,5.5467296,1.0,1.0,Liverpool,Premiere League
+Tomori Fikayo,DC,5.5439386,19.0,23.0,Milan,Serie A
+Castelletto Jean-Charles,DC,5.5429897,13.0,14.0,FC Nantes,Ligue 1
+Hermoso Mario,DC,5.5363216,7.0,9.0,Atlético,Liga
+Balerdi Leonardo,DC,5.5345993,11.0,13.0,OM,Ligue 1
+Kilama Guy-Marcelin,DC,5.532689,12.0,17.0,Niort,Ligue 2
+Thiaw Malick,DC,5.52828,8.0,8.0,Milan,Serie A
+Mamadou Fofana I Mamadou,DC,5.525783,13.0,16.0,Amiens SC,Ligue 2
+Roberto Sergi,DL,5.5255847,11.0,15.0,Barcelona,Liga
+El Hajjam Oualid,DL,5.522331,15.0,21.0,Havre AC,Ligue 2
+Henry Valentin,DL,5.5172477,8.0,13.0,Sochaux,Ligue 2
+Raolisoa Lilian,DL,5.5168357,1.0,1.0,Angers SCO,Ligue 1
+Magallán Lisandro,DC,5.5168357,7.0,10.0,Elche,Liga
+Zeze Nathan,DC,5.5168357,1.0,1.0,FC Nantes,Ligue 1
+Briançon Anthony,DC,5.51065,13.0,18.0,Saint-Étienne,Ligue 2
+Ceccherini Federico,DC,5.5090356,11.0,11.0,Verona,Serie A
+Opoku Nicholas,DC,5.506197,12.0,15.0,Amiens SC,Ligue 2
+Medina Facundo,DL,5.5028734,16.0,18.0,RC Lens,Ligue 1
+Medel Gary,DC,5.4960403,15.0,17.0,Bologna,Serie A
+Gelin Jérémy,DC,5.494514,12.0,15.0,Amiens SC,Ligue 2
+Brassier Lilian,DC,5.4897113,11.0,13.0,Brest,Ligue 1
+Aguerd Nayef,DC,5.48963,5.0,7.0,West Ham,Premiere League
+Ebuehi Tyronne,DL,5.4875617,10.0,11.0,Empoli,Serie A
+Gayà José,DL,5.4856415,12.0,15.0,Valencia,Liga
+Aké Nathan,DC,5.4844446,8.0,11.0,Man. City,Premiere League
+Diedhiou Christophe,DC,5.4842057,9.0,14.0,Quevilly RM,Ligue 2
+Rrahmani Amir,DC,5.4831953,14.0,18.0,Napoli,Serie A
+Shaw Luke,DL,5.4754457,12.0,15.0,Man. United,Premiere League
+Casale Nicolò,DL,5.4670243,11.0,12.0,Lazio,Serie A
+Bonucci Leonardo,DC,5.4663854,15.0,17.0,Juventus,Serie A
+James Reece,DL,5.464615,7.0,10.0,Chelsea,Premiere League
+Biraghi Cristiano,DL,5.458299,13.0,14.0,Fiorentina,Serie A
+Zanka,DC,5.4541006,5.0,5.0,Brentford,Premiere League
+Cuadrado Juan,DL,5.450261,25.0,29.0,Juventus,Serie A
+Djidji Koffi,DC,5.4498105,10.0,11.0,Torino,Serie A
+Tiago Djaló,DC,5.449189,16.0,17.0,LOSC,Ligue 1
+Fali,DC,5.4486966,9.0,10.0,Cádiz,Liga
+Dani Vivian,DC,5.4467926,13.0,15.0,Athletic,Liga
+Coulibaly Senou,DC,5.44442,12.0,12.0,Dijon FCO,Ligue 2
+Boly Willy,DC,5.4430885,6.0,7.0,Nottingham Forest,Premiere League
+N'Diaye Abdoulaye,DC,5.4390445,13.0,16.0,SC Bastia,Ligue 2
+Albiol Raúl,DC,5.4333396,15.0,19.0,Villarreal,Liga
+Dier Eric,DC,5.4240417,15.0,19.0,Tottenham,Premiere League
+Rico Diego,DL,5.423323,10.0,10.0,Real Sociedad,Liga
+Xantippe Matthéo,DL,5.4229045,9.0,10.0,Amiens SC,Ligue 2
+Badé Loïc,DC,5.4177356,7.0,7.0,Sevilla,Liga
+Carvajal Daniel,DL,5.415358,12.0,17.0,Real Madrid,Liga
+Akanji Manuel,DC,5.410888,10.0,14.0,Man. City,Premiere League
+Dante,DC,5.4019475,13.0,15.0,OGC Nice,Ligue 1
+Mouanga Kévin,DC,5.397901,10.0,11.0,FC Annecy,Ligue 2
+Kouao Koffi,DL,5.3973927,10.0,13.0,FC Metz,Ligue 2
+Álvarez Yeray,DC,5.3928876,12.0,16.0,Athletic,Liga
+Karsdorp Rick,DC,5.392653,9.0,11.0,Roma,Serie A
+Vandenabeele Éric,DC,5.391841,8.0,10.0,Rodez AF,Ligue 2
+Çelik Zeki,DL,5.3746085,9.0,10.0,Roma,Serie A
+Wieteska Mateusz,DC,5.373415,12.0,13.0,Clermont,Ligue 1
+Romagnoli Alessio,DC,5.3728714,15.0,18.0,Lazio,Serie A
+Lemonnier Pierre,DC,5.3692193,5.0,12.0,Guingamp,Ligue 2
+Rogerio,DL,5.368816,9.0,10.0,Sassuolo,Serie A
+García Eric,DC,5.365132,12.0,15.0,Barcelona,Liga
+Darmian Matteo,DL,5.364741,9.0,12.0,Inter,Serie A
+Vázquez Lucas,DL,5.3599935,13.0,16.0,Real Madrid,Liga
+Tolói Rafael,DC,5.355975,12.0,15.0,Atalanta,Serie A
+González Edgar,DC,5.355914,11.0,13.0,Betis,Liga
+Bailly Eric,DC,5.3525634,10.0,11.0,OM,Ligue 1
+Pezzella Germán,DC,5.350292,12.0,14.0,Betis,Liga
+Traoré Brahim,DC,5.349966,7.0,8.0,SM Caen,Ligue 2
+Martínez Íñigo,DC,5.3475685,9.0,11.0,Athletic,Liga
+Martínez Lisandro,DC,5.3462434,12.0,14.0,Man. United,Premiere League
+Gradit Jonathan,DL,5.3436465,13.0,15.0,RC Lens,Ligue 1
+Özkacar Cenk,DC,5.343113,6.0,6.0,Valencia,Liga
+Vandermersch Hugo,DL,5.341551,11.0,14.0,SM Caen,Ligue 2
+Richards Chris,DC,5.340887,3.0,4.0,Crystal Palace,Premiere League
+Luiz Felipe,DC,5.339107,10.0,13.0,Betis,Liga
+Pongracic Marin,DC,5.3379326,10.0,11.0,Lecce,Serie A
+Diogo Dalot,DL,5.336578,11.0,13.0,Man. United,Premiere League
+Toni Lato,DL,5.3336215,9.0,13.0,Valencia,Liga
+Sainte-Luce Théo,DL,5.3290105,1.0,1.0,Montpellier,Ligue 1
+Bellerín Héctor,DL,5.328201,5.0,7.0,Barcelona,Liga
+Erlic Martin,DC,5.3240075,8.0,9.0,Sassuolo,Serie A
+McKenna Scott,DC,5.3212504,10.0,11.0,Nottingham Forest,Premiere League
+Mendy Ferland,DL,5.3163924,12.0,16.0,Real Madrid,Liga
+Lekue Íñigo,DL,5.315916,11.0,14.0,Athletic,Liga
+Iza Carcelén,DL,5.3153925,9.0,9.0,Cádiz,Liga
+Cömert Eray,DC,5.314869,11.0,12.0,Valencia,Liga
+Masina Adam,DL,5.31178,1.0,2.0,Udinese,Serie A
+Rúben Dias,DC,5.3111844,17.0,21.0,Man. City,Premiere League
+Diakhaby Mouctar,DC,5.3090954,12.0,17.0,Valencia,Liga
+Le Marchand Maxime,DC,5.3054605,8.0,9.0,Strasbourg,Ligue 1
+Cuenca Jorge,DC,5.305133,6.0,6.0,Villarreal,Liga
+Costa Jaume,DL,5.303794,11.0,11.0,Mallorca,Liga
+Ndour Abdallah,DL,5.3033237,12.0,17.0,Sochaux,Ligue 2
+Nacho,DC,5.2982736,10.0,15.0,Real Madrid,Liga
+Gabriel Paulista,DC,5.296612,11.0,15.0,Valencia,Liga
+Faussurier Julien,DL,5.2964926,12.0,16.0,Sochaux,Ligue 2
+Marusic Adam,DL,5.286722,13.0,16.0,Lazio,Serie A
+Lamptey Tariq,DL,5.286685,9.0,11.0,Brighton,Premiere League
+Posch Stefan,DC,5.285152,14.0,16.0,Bologna,Serie A
+Raíllo Antonio,DC,5.284329,12.0,15.0,Mallorca,Liga
+Thiago Mendes,DC,5.2829633,14.0,16.0,OL,Ligue 1
+Malacia Tyrell,DL,5.277381,9.0,10.0,Man. United,Premiere League
+Tomiyasu Takehiro,DL,5.276758,8.0,8.0,Arsenal,Premiere League
+Wöber Maximilian,DC,5.273006,9.0,10.0,Leeds,Premiere League
+Tchaptchet Allan,DC,5.2703633,13.0,16.0,Grenoble,Ligue 2
+Gomez Joe,DC,5.265526,10.0,10.0,Liverpool,Premiere League
+Hernández Theo,DL,5.2647943,24.0,34.0,Milan,Serie A
+Copete,DC,5.2641144,11.0,12.0,Mallorca,Liga
+Michelin Clement,DL,5.2592278,11.0,13.0,Bordeaux,Ligue 2
+Phillips Nathaniel,DC,5.2590785,3.0,3.0,Liverpool,Premiere League
+De Sciglio Mattia,DL,5.2590694,5.0,7.0,Juventus,Serie A
+Ajer Kristoffer,DC,5.253974,7.0,7.0,Brentford,Premiere League
+Nuno Tavares,DL,5.2490664,18.0,21.0,OM,Ligue 1
+Emerson,DL,5.2482615,5.0,5.0,West Ham,Premiere League
+Álex Moreno,DL,5.245281,9.0,16.0,Aston Villa,Premiere League
+Passi Bryan,DC,5.245201,11.0,14.0,Niort,Ligue 2
+Holgate Mason,DC,5.2410307,1.0,1.0,Everton,Premiere League
+Hien Isak,DC,5.240988,9.0,9.0,Verona,Serie A
+Kjaer Simon,DC,5.2320704,8.0,10.0,Milan,Serie A
+Domingos Duarte,DC,5.231921,12.0,13.0,Getafe,Liga
+Vidal Aleix,DL,5.228077,11.0,11.0,Espanyol,Liga
+Parisi Fabiano,DL,5.2272735,14.0,16.0,Empoli,Serie A
+Aina Ola,DL,5.220229,8.0,10.0,Torino,Serie A
+Chilwell Ben,DL,5.218776,6.0,7.0,Chelsea,Premiere League
+Abdelhamid Yunis,DC,5.218636,13.0,14.0,Reims,Ligue 1
+Mandi Aïssa,DC,5.216348,8.0,12.0,Villarreal,Liga
+Stephens Jack,DC,5.206232,8.0,8.0,Bournemouth,Premiere League
+Nuytinck Bram,DC,5.204946,5.0,5.0,Sampdoria,Serie A
+Savic Stefan,DC,5.2015486,10.0,12.0,Atlético,Liga
+Danger Bradley,DC,5.200802,14.0,17.0,Rodez AF,Ligue 2
+Gosens Robin,DL,5.1973844,12.0,14.0,Inter,Serie A
+Catena Alejandro,DC,5.194406,14.0,17.0,Rayo Vallecano,Liga
+Valjent Martin,DC,5.1931486,12.0,14.0,Mallorca,Liga
+Sánchez Rubén,DL,5.1870074,7.0,7.0,Espanyol,Liga
+Nélson Semedo,DL,5.186829,9.0,11.0,Wolverhampton,Premiere League
+Le Normand Robin,DC,5.1862793,13.0,14.0,Real Sociedad,Liga
+Fernández Valery,DL,5.183475,11.0,11.0,Girona,Liga
+Williams Neco,DL,5.1822925,12.0,13.0,Nottingham Forest,Premiere League
+Montoya Martín,DL,5.1809177,5.0,7.0,Betis,Liga
+Chougrani Joris,DC,5.1724133,9.0,9.0,Rodez AF,Ligue 2
+Baldé Yasser,DC,5.169609,10.0,11.0,Laval,Ligue 2
+Maffeo Pablo,DL,5.1695237,12.0,15.0,Mallorca,Liga
+Djimsiti Berat,DC,5.168924,7.0,8.0,Atalanta,Serie A
+Bitshiabu El Chadaille,DC,5.168615,6.0,6.0,Paris SG,Ligue 1
+Dumfries Denzel,DL,5.164207,18.0,23.0,Inter,Serie A
+Lloris Gautier,DC,5.1637173,15.0,25.0,Havre AC,Ligue 2
+Lucas Rosa,DL,5.1599255,6.0,6.0,Valladolid,Liga
+Pedraza Alfonso,DL,5.1550074,13.0,16.0,Villarreal,Liga
+Walukiewicz Sebastian,DC,5.154997,7.0,7.0,Empoli,Serie A
+Ranieri Luca,DL,5.154991,1.0,1.0,Fiorentina,Serie A
+Yan Couto,DL,5.1538534,10.0,10.0,Girona,Liga
+Pétrot Léo,DC,5.152497,11.0,11.0,Saint-Étienne,Ligue 2
+Mumin Abdul,DC,5.1494346,9.0,9.0,Rayo Vallecano,Liga
+Krafth Emil,DL,5.148595,1.0,1.0,Newcastle,Premiere League
+Nyamsi Gerzino,DC,5.1479473,11.0,11.0,Strasbourg,Ligue 1
+Biancone Giulian,DL,5.146584,1.0,1.0,Nottingham Forest,Premiere League
+de Vrij Stefan,DC,5.1465116,13.0,17.0,Inter,Serie A
+Teikeu Adolphe,DC,5.14562,7.0,8.0,SM Caen,Ligue 2
+Palomino José Luis,DC,5.1439347,6.0,6.0,Atalanta,Serie A
+Gila Mario,DC,5.141044,5.0,5.0,Lazio,Serie A
+Tagliafico Nicolás,DL,5.1392107,12.0,16.0,OL,Ligue 1
+Carmona José Ángel,DL,5.1375213,10.0,13.0,Elche,Liga
+Stojanovic Petar,DL,5.1369667,9.0,10.0,Empoli,Serie A
+Fran García Francisco,DL,5.136086,13.0,15.0,Rayo Vallecano,Liga
+Destiny Udogie Iyenoma,DL,5.1357427,13.0,17.0,Udinese,Serie A
+Reguilón Sergio,DL,5.135654,6.0,6.0,Atlético,Liga
+Wan-Bissaka Aaron,DL,5.1329446,1.0,2.0,Man. United,Premiere League
+Kumbulla Marash,DC,5.131172,3.0,3.0,Roma,Serie A
+De Marcos Óscar,DL,5.1304746,12.0,13.0,Athletic,Liga
+Pozo Alejandro,DL,5.1303825,10.0,10.0,Almería,Liga
+Sainati Joris,DC,5.1302624,11.0,14.0,SC Bastia,Ligue 2
+Targett Matt,DL,5.1276035,8.0,9.0,Newcastle,Premiere League
+Calabria Davide,DL,5.1242256,8.0,11.0,Milan,Serie A
+Machado Deiver,DL,5.122923,12.0,15.0,RC Lens,Ligue 1
+Mosquera Cristhian,DC,5.1184516,1.0,2.0,Valencia,Liga
+Sabaly Youssouf,DL,5.1176724,11.0,11.0,Betis,Liga
+Suárez Damián,DL,5.112999,11.0,13.0,Getafe,Liga
+Sola Álex,DL,5.112692,7.0,7.0,Real Sociedad,Liga
+Labonne Ronny,DL,5.111089,11.0,13.0,Nimes O.,Ligue 2
+Eboa Eboa Félix,DC,5.1073256,3.0,9.0,Guingamp,Ligue 2
+Kyriakopoulos Giorgos,DL,5.1064024,13.0,16.0,Sassuolo,Serie A
+Tierney Kieran,DL,5.104821,10.0,11.0,Arsenal,Premiere League
+Bryan Joe,DL,5.1035767,6.0,7.0,OGC Nice,Ligue 1
+Javi Hernández,DC,5.100444,10.0,10.0,Girona,Liga
+Maehle Joakim,DL,5.098724,9.0,10.0,Atalanta,Serie A
+Davies Ben,DL,5.0986166,14.0,16.0,Tottenham,Premiere League
+Torres Pau,DC,5.0984387,19.0,24.0,Villarreal,Liga
+Sánchez Davinson,DC,5.097811,8.0,10.0,Tottenham,Premiere League
+Maouassa Faitout,DL,5.0954833,12.0,14.0,Montpellier,Ligue 1
+Reinildo,DL,5.0925555,13.0,17.0,Atlético,Liga
+Viña Matías,DL,5.088995,1.0,1.0,Roma,Serie A
+Ruiz Víctor,DC,5.088601,6.0,6.0,Betis,Liga
+Bastoni Simone,DL,5.086586,16.0,19.0,Spezia,Serie A
+Okoli Memeh,DC,5.0853047,10.0,12.0,Atalanta,Serie A
+Caufriez Maximiliano,DC,5.084179,11.0,13.0,Clermont,Ligue 1
+Babic Srdjan,DC,5.0796943,12.0,15.0,Almería,Liga
+Manu Sánchez,DL,5.079427,11.0,11.0,Osasuna,Liga
+Scalvini Giorgio,DC,5.0779424,10.0,11.0,Atalanta,Serie A
+Caldirola Luca,DC,5.076607,9.0,11.0,Monza,Serie A
+Agouzoul Saad,DC,5.0749316,13.0,18.0,Sochaux,Ligue 2
+Ngouyamsa Ahmad,DL,5.07435,7.0,7.0,Dijon FCO,Ligue 2
+Webster Adam,DC,5.0742474,11.0,12.0,Brighton,Premiere League
+Ismaily,DL,5.0739083,13.0,15.0,LOSC,Ligue 1
+Le Bris Théo,DL,5.073596,9.0,11.0,FC Lorient,Ligue 1
+Schlupp Jeffrey,DL,5.0733175,12.0,14.0,Crystal Palace,Premiere League
+Cabrera Leandro,DC,5.07213,11.0,13.0,Espanyol,Liga
+Hysaj Elseid,DL,5.0710726,10.0,17.0,Lazio,Serie A
+Holding Rob,DC,5.0695424,7.0,7.0,Arsenal,Premiere League
+Lala Kenny,DL,5.067905,8.0,10.0,Brest,Ligue 1
+Aaneba Ismaël,DC,5.0674567,16.0,20.0,Sochaux,Ligue 2
+Kaboré Issa,DL,5.0643005,11.0,12.0,OM,Ligue 1
+Le Cardinal Julien,DL,5.0632744,5.0,9.0,RC Lens,Ligue 1
+Nestor Loïc,DC,5.0602956,5.0,6.0,Grenoble,Ligue 2
+Bruus Andreas,DL,5.0599885,10.0,10.0,Troyes,Ligue 1
+Vázquez Jesús,DC,5.056207,7.0,7.0,Valencia,Liga
+Lucumí Jhon,DC,5.05453,13.0,13.0,Bologna,Serie A
+Pierre-Gabriel Ronaël,DL,5.054434,9.0,10.0,Strasbourg,Ligue 1
+Poulain Benoît,DC,5.0532265,8.0,8.0,Nimes O.,Ligue 2
+Zubeldia Igor,DC,5.052435,11.0,12.0,Real Sociedad,Liga
+Thomas Romain,DC,5.050485,20.0,26.0,SM Caen,Ligue 2
+Juan Cala,DC,5.0493517,6.0,6.0,Cádiz,Liga
+Bellanova Raoul,DL,5.0477595,10.0,10.0,Inter,Serie A
+Porozo Jackson,DC,5.0458612,11.0,14.0,Troyes,Ligue 1
+González Giovanni,DL,5.043487,7.0,7.0,Mallorca,Liga
+Olivera Mathías,DL,5.0428042,11.0,12.0,Napoli,Serie A
+Lenglet Clément,DC,5.0423207,9.0,10.0,Tottenham,Premiere League
+Domínguez Carlos,DC,5.04132,1.0,1.0,Celta,Liga
+Lascelles Jamaal,DC,5.0408564,8.0,10.0,Newcastle,Premiere League
+Louis-Jean Johaneko,DL,5.039432,6.0,6.0,Bordeaux,Ligue 2
+Hernández Aridane,DC,5.0376105,4.0,5.0,Osasuna,Liga
+Ely Rodrigo,DC,5.037434,11.0,13.0,Almería,Liga
+White Ben,DC,5.0366893,12.0,17.0,Arsenal,Premiere League
+Emerson Royal,DL,5.0351353,9.0,12.0,Tottenham,Premiere League
+Cambiaso Andrea,DL,5.034402,11.0,12.0,Bologna,Serie A
+Boto Kenji-Van,DL,5.034299,1.0,1.0,AJ Auxerre,Ligue 1
+Thierry Correia,DL,5.034145,11.0,14.0,Valencia,Liga
+Oliván Brian,DL,5.0339828,10.0,12.0,Espanyol,Liga
+Gallo Antonino,DL,5.0301013,11.0,11.0,Lecce,Serie A
+Miranda Juan,DL,5.0274434,1.0,2.0,Betis,Liga
+Söyüncü Çaglar,DC,5.026268,3.0,3.0,Leicester,Premiere League
+Lejeune Florian,DC,5.026081,14.0,18.0,Rayo Vallecano,Liga
+Sergi Gómez Sergi,DC,5.0207405,10.0,10.0,Espanyol,Liga
+Toljan Jeremy,DL,5.0206265,9.0,10.0,Sassuolo,Serie A
+Hanin Florent,DL,5.0204616,13.0,16.0,Paris FC,Ligue 2
+Bella-Kotchap Armel,DC,5.0191374,10.0,12.0,Southampton,Premiere League
+Gravillon Andreaw,DC,5.0189714,11.0,12.0,Reims,Ligue 1
+Bronn Dylan,DC,5.0180078,10.0,10.0,Salernitana,Serie A
+Soppy Brandon,DL,5.0172405,9.0,10.0,Atalanta,Serie A
+Luperto Sebastiano,DC,5.0160894,11.0,12.0,Empoli,Serie A
+Romero Cristian,DC,5.016021,8.0,10.0,Tottenham,Premiere League
+De Smet Thibault,DL,5.0117435,9.0,9.0,Reims,Ligue 1
+Dabila Kouadio-Yves,DC,5.0113163,7.0,10.0,Paris FC,Ligue 2
+Dylan Tavares,DL,5.0085983,14.0,18.0,SC Bastia,Ligue 2
+Assignon Lorenz,DL,5.0080442,3.0,4.0,Rennes,Ligue 1
+Hall Lewis,DL,5.0069222,3.0,3.0,Chelsea,Premiere League
+Gómez Sergio,DL,5.006853,5.0,9.0,Man. City,Premiere League
+Kimpembe Presnel,DC,5.0059767,7.0,11.0,Paris SG,Ligue 1
+Cufré Braian,DL,5.005472,3.0,3.0,Mallorca,Liga
+Ritchie Matt,DL,5.003771,1.0,1.0,Newcastle,Premiere League
+Ozornwafor Valentine,DC,5.003771,1.0,1.0,Sochaux,Ligue 2
+Fernández Federico,DC,5.003771,1.0,1.0,Elche,Liga
+Capa Ander,DL,5.003771,1.0,1.0,Athletic,Liga
+Dermaku Kastriot,DC,5.003771,3.0,3.0,Lecce,Serie A
+Kamanzi Warren,DL,5.003771,5.0,5.0,Toulouse FC,Ligue 1
+Cissé Souleymane,DC,5.003771,1.0,1.0,Clermont,Ligue 1
+Innocenti Nassim,DL,5.003771,5.0,5.0,Valenciennes,Ligue 2
+Ebosele Festy,DL,5.0033417,4.0,4.0,Udinese,Serie A
+Spence Djed,DL,5.0029697,3.0,3.0,Tottenham,Premiere League
+Terzic Aleksa,DL,5.0013566,10.0,10.0,Fiorentina,Serie A
+Feddal Zouhair,DC,5.000761,8.0,8.0,Valladolid,Liga
+Ramos Sergio,DC,5.000642,12.0,16.0,Paris SG,Ligue 1
+Ogier Florent,DC,4.997942,9.0,9.0,Clermont,Ligue 1
+Fresneda Iván,DL,4.9950256,9.0,9.0,Valladolid,Liga
+Sadzoute Scotty,DL,4.9944487,8.0,9.0,Nimes O.,Ligue 2
+Gabriel Silva,DL,4.992011,5.0,5.0,Saint-Étienne,Ligue 2
+Gabbia Matteo,DC,4.9914193,9.0,9.0,Milan,Serie A
+Sacko Falaye,DL,4.991312,10.0,11.0,Montpellier,Ligue 1
+Juan Larios,DL,4.991169,6.0,6.0,Southampton,Premiere League
+Henry Rico,DL,4.990748,11.0,13.0,Brentford,Premiere League
+Armougom Yoël,DL,4.9890194,7.0,11.0,Sochaux,Ligue 2
+El Hilali Omar,DL,4.9882755,7.0,7.0,Espanyol,Liga
+Boura Ismaël,DL,4.9862905,7.0,7.0,RC Lens,Ligue 1
+Toffolo Harry,DL,4.9820104,3.0,3.0,Nottingham Forest,Premiere League
+Traoré Charles,DL,4.9816947,6.0,6.0,FC Nantes,Ligue 1
+da Silva Damien,DC,4.9814124,9.0,9.0,OL,Ligue 1
+Vázquez Kevin,DL,4.981047,5.0,5.0,Celta,Liga
+Colley Omar,DC,4.978531,11.0,14.0,Sampdoria,Serie A
+Boateng Jérôme,DC,4.977827,7.0,9.0,OL,Ligue 1
+Acerbi Francesco,DC,4.977444,12.0,14.0,Inter,Serie A
+Marquinhos,DC,4.976082,28.0,33.0,Paris SG,Ligue 1
+Sissoko Alpha,DL,4.974523,13.0,17.0,Quevilly RM,Ligue 2
+Bernat Juan,DL,4.974028,10.0,13.0,Paris SG,Ligue 1
+Chiriches Vlad,DC,4.9737225,3.0,3.0,Cremonese,Serie A
+Durivaux Dylan,DL,4.9725437,8.0,8.0,Niort,Ligue 2
+Koné Youssouf,DL,4.9721236,9.0,9.0,AC Ajaccio,Ligue 1
+Fernández Joaquín,DC,4.972021,10.0,15.0,Valladolid,Liga
+Evans Jean,DL,4.9716234,13.0,13.0,Pau FC,Ligue 2
+Venuti Lorenzo,DL,4.9692383,7.0,7.0,Fiorentina,Serie A
+Adéoti Jordan,DC,4.9684186,9.0,12.0,Laval,Ligue 2
+Müldür Mert,DL,4.965413,1.0,1.0,Sassuolo,Serie A
+Mukiele Nordi,DL,4.9652176,12.0,15.0,Paris SG,Ligue 1
+Demiral Merih,DC,4.964612,14.0,18.0,Atalanta,Serie A
+Ruggeri Matteo,DL,4.9635053,5.0,6.0,Atalanta,Serie A
+Alphonse Mickaël,DL,4.962153,10.0,10.0,AC Ajaccio,Ligue 1
+Maitland-Niles Ainsley,DL,4.958134,8.0,9.0,Southampton,Premiere League
+Kasius Denso,DL,4.957349,4.0,4.0,Bologna,Serie A
+Berchiche Yuri,DL,4.9519205,9.0,10.0,Athletic,Liga
+Spinazzola Leonardo,DL,4.949983,7.0,8.0,Roma,Serie A
+Kristensen Rasmus,DL,4.947903,9.0,10.0,Leeds,Premiere League
+Zeffane Mehdi,DL,4.9468255,1.0,1.0,Clermont,Ligue 1
+Conté Ibrahima,DC,4.9459114,9.0,18.0,Niort,Ligue 2
+Jubal,DC,4.9457974,11.0,14.0,AJ Auxerre,Ligue 1
+Dawidowicz Pawel,DC,4.945744,9.0,10.0,Verona,Serie A
+Akieme Sergio,DL,4.94497,10.0,11.0,Almería,Liga
+Fila Karol,DL,4.942021,3.0,3.0,Strasbourg,Ligue 1
+Johnson Ben,DL,4.940765,5.0,7.0,West Ham,Premiere League
+Gendrey Valentin,DL,4.9405885,11.0,12.0,Lecce,Serie A
+Néry Loris,DL,4.939565,3.0,7.0,Grenoble,Ligue 2
+Gaspar Jordy,DL,4.937717,11.0,14.0,Grenoble,Ligue 2
+Caio Henrique,DL,4.9375706,16.0,20.0,AS Monaco,Ligue 1
+Martinez Arnau,DL,4.9358516,11.0,14.0,Girona,Liga
+Igor Julio,DC,4.9352336,8.0,9.0,Fiorentina,Serie A
+Dagba Colin,DL,4.934031,8.0,10.0,Strasbourg,Ligue 1
+Tuia Alessandro,DC,4.9333158,1.0,1.0,Lecce,Serie A
+Seidou Edson,DL,4.9324765,9.0,12.0,Laval,Ligue 2
+Gersbach Alex,DL,4.930558,11.0,15.0,Grenoble,Ligue 2
+Schuurs Perr,DC,4.9288106,8.0,9.0,Torino,Serie A
+Locko Bradley,DL,4.9270754,8.0,10.0,Reims,Ligue 1
+Diop Issa,DC,4.926275,11.0,12.0,Fulham,Premiere League
+Lebreton Noé,DC,4.924642,1.0,1.0,SM Caen,Ligue 2
+Trippier Kieran,DL,4.9239864,19.0,28.0,Newcastle,Premiere League
+Molina Nahuel,DL,4.9228997,10.0,13.0,Atlético,Liga
+Gyömbér Norbert,DC,4.9227524,9.0,11.0,Salernitana,Serie A
+Calero Fernando,DC,4.9206724,10.0,11.0,Espanyol,Liga
+Marlon Santos,DC,4.9188046,9.0,9.0,Monza,Serie A
+Cédric Soares,DL,4.917523,4.0,4.0,Arsenal,Premiere League
+Roerslev Mads,DL,4.9146976,5.0,5.0,Brentford,Premiere League
+Felipe,DC,4.9129863,7.0,7.0,Atlético,Liga
+Paredes Aitor,DC,4.911212,1.0,1.0,Athletic,Liga
+Diaw Pape Djibril,DC,4.911176,5.0,9.0,Laval,Ligue 2
+Chambers Calum,DC,4.9083586,3.0,4.0,Aston Villa,Premiere League
+Manquillo Javier,DL,4.9051437,3.0,3.0,Newcastle,Premiere League
+José Fonte,DC,4.9040275,16.0,17.0,LOSC,Ligue 1
+Aidoo Joseph,DL,4.9032674,12.0,15.0,Celta,Liga
+Bremer,DC,4.9014263,22.0,26.0,Juventus,Serie A
+Sarr Malang,DC,4.9012,8.0,8.0,AS Monaco,Ligue 1
+Alex Telles,DL,4.900001,11.0,13.0,Sevilla,Liga
+Navas Jesús,DL,4.897487,9.0,12.0,Sevilla,Liga
+Sivis Maxime,DL,4.8965735,5.0,7.0,Guingamp,Ligue 2
+Obiang Johann,DL,4.8956866,7.0,9.0,SM Caen,Ligue 2
+Ebosse Enzo,DL,4.889492,9.0,10.0,Udinese,Serie A
+Doukouré Ismaël,DC,4.8860874,10.0,10.0,Strasbourg,Ligue 1
+Zandén Oliver,DL,4.8859825,3.0,5.0,Toulouse FC,Ligue 1
+Mingueza Óscar,DC,4.885661,10.0,11.0,Celta,Liga
+D'Ambrosio Danilo,DL,4.8837576,5.0,5.0,Inter,Serie A
+Giraudon Jimmy,DC,4.883005,11.0,14.0,Saint-Étienne,Ligue 2
+Kalulu Pierre,DL,4.881866,16.0,19.0,Milan,Serie A
+Kiko Femenía Kiko,DL,4.8805795,10.0,13.0,Villarreal,Liga
+Chust Victor,DC,4.8797536,9.0,11.0,Cádiz,Liga
+Alexsandro Ribeiro,DC,4.876288,9.0,9.0,LOSC,Ligue 1
+Akpa Akpro Jean-Daniel,DL,4.871374,10.0,10.0,Empoli,Serie A
+Bueno Santiago,DC,4.8703456,9.0,10.0,Girona,Liga
+Bigas Pedro,DC,4.869348,9.0,10.0,Elche,Liga
+Yongwa Darline,DL,4.869015,1.0,1.0,FC Lorient,Ligue 1
+Aït-Nouri Rayan,DL,4.8688736,8.0,10.0,Wolverhampton,Premiere League
+Pacheco Jon,DC,4.8647947,9.0,9.0,Real Sociedad,Liga
+Nastasic Matija,DC,4.864745,8.0,8.0,Mallorca,Liga
+Henrique,DL,4.8638973,1.0,3.0,OL,Ligue 1
+Foulquier Dimitri,DL,4.862892,8.0,8.0,Valencia,Liga
+Bastoni Alessandro,DC,4.858825,13.0,16.0,Inter,Serie A
+Günter Koray,DC,4.8584886,11.0,11.0,Verona,Serie A
+Bamba Abdoulaye,DL,4.8556366,5.0,5.0,Angers SCO,Ligue 1
+Hateboer Hans,DL,4.8547177,11.0,14.0,Atalanta,Serie A
+Holm Emil,DL,4.853099,10.0,10.0,Spezia,Serie A
+Ring Sebastian,DL,4.8527856,9.0,9.0,Amiens SC,Ligue 2
+Zemura Jordan,DL,4.8515973,9.0,10.0,Bournemouth,Premiere League
+Duffy Shane,DC,4.8511887,5.0,8.0,Fulham,Premiere League
+Murru Nicola,DL,4.847952,8.0,8.0,Sampdoria,Serie A
+Debuchy Mathieu,DL,4.8471074,12.0,14.0,Valenciennes,Ligue 2
+Nikolaou Dimitrios,DC,4.846316,9.0,10.0,Spezia,Serie A
+Gudmundsson Gabriel,DL,4.84375,1.0,3.0,LOSC,Ligue 1
+Rekik Karim,DC,4.8424335,7.0,7.0,Sevilla,Liga
+David García,DC,4.840213,16.0,17.0,Osasuna,Liga
+Traoré Ismaël,DC,4.836106,12.0,12.0,FC Metz,Ligue 2
+Palun Lloyd,DL,4.8348503,6.0,6.0,SC Bastia,Ligue 2
+Meling Birger,DL,4.833524,9.0,9.0,Rennes,Ligue 1
+Mitchell Tyrick,DL,4.831328,11.0,12.0,Crystal Palace,Premiere League
+Lotomba Jordan,DL,4.8280635,11.0,12.0,OGC Nice,Ligue 1
+Kike Salas,DL,4.827124,10.0,10.0,Sevilla,Liga
+Mitrovic Stefan,DC,4.8246255,12.0,13.0,Getafe,Liga
+Kiwior Jakub,DC,4.8225665,10.0,11.0,Spezia,Serie A
+Augello Tommaso,DL,4.8218875,10.0,10.0,Sampdoria,Serie A
+Zappacosta Davide,DL,4.820398,1.0,2.0,Atalanta,Serie A
+Walker Kyle,DL,4.8186684,7.0,11.0,Man. City,Premiere League
+Zinchenko Oleksandr,DL,4.8171015,8.0,11.0,Arsenal,Premiere League
+Dodô,DL,4.813409,11.0,12.0,Fiorentina,Serie A
+Quagliata Giacomo,DL,4.8127503,10.0,10.0,Cremonese,Serie A
+Pallois Nicolas,DC,4.8120027,12.0,13.0,FC Nantes,Ligue 1
+Koré Yoan,DL,4.809087,5.0,5.0,Paris FC,Ligue 2
+Mazzocchi Pasquale,DL,4.8080506,12.0,14.0,Salernitana,Serie A
+Karamoko Setigui,DC,4.807995,3.0,3.0,Paris FC,Ligue 2
+Álvarez Gastón,DC,4.8065906,8.0,9.0,Getafe,Liga
+Fofana Adama,DL,4.805641,11.0,11.0,Dijon FCO,Ligue 2
+Ferrari Alex,DC,4.8020253,10.0,10.0,Cremonese,Serie A
+Ayhan Kaan,DC,4.8018346,9.0,9.0,Sassuolo,Serie A
+Rabuel Matteo,DC,4.8011947,7.0,7.0,Valenciennes,Ligue 2
+Sernicola Leonardo,DL,4.797038,10.0,10.0,Cremonese,Serie A
+Florenzi Alessandro,DL,4.7969556,1.0,1.0,Milan,Serie A
+Gil Óscar,DL,4.7960024,10.0,11.0,Espanyol,Liga
+Mouali Hamza,DL,4.792809,8.0,9.0,Laval,Ligue 2
+Suárez Mario,DC,4.79271,1.0,3.0,Rayo Vallecano,Liga
+Justin James,DL,4.79144,11.0,13.0,Leicester,Premiere League
+Soumaoro Adama,DC,4.791257,11.0,12.0,Bologna,Serie A
+Maçon Yvann,DL,4.791139,9.0,16.0,Paris FC,Ligue 2
+Escudero Sergio,DL,4.7902126,9.0,9.0,Valladolid,Liga
+Kurzawa Layvin,DL,4.789496,1.0,1.0,Fulham,Premiere League
+Chumi,DC,4.787159,9.0,9.0,Almería,Liga
+Marcão,DC,4.7866297,7.0,7.0,Sevilla,Liga
+Ashley Young Ashley,DL,4.7865205,9.0,11.0,Aston Villa,Premiere League
+Aiwu Emanuel,DC,4.780456,10.0,10.0,Cremonese,Serie A
+Gabriel Magalhães,DC,4.777156,23.0,29.0,Arsenal,Premiere League
+Kumbedi Sael,DL,4.7770143,7.0,7.0,OL,Ligue 1
+Cresswell Aaron,DL,4.776654,11.0,13.0,West Ham,Premiere League
+Keane Michael,DC,4.7755246,1.0,2.0,Everton,Premiere League
+Javi Sánchez,DC,4.7754107,10.0,10.0,Valladolid,Liga
+Javi Galán,DL,4.7728276,9.0,10.0,Celta,Liga
+Vallier Lenny,DL,4.7686515,10.0,12.0,Niort,Ligue 2
+Toti,DC,4.767902,3.0,3.0,Wolverhampton,Premiere League
+N'Simba Vital,DL,4.7663913,14.0,20.0,Bordeaux,Ligue 2
+Congré Daniel,DC,4.766378,13.0,15.0,Dijon FCO,Ligue 2
+Aguilar Ruben,DL,4.7631326,9.0,9.0,AS Monaco,Ligue 1
+Østigård Leo,DC,4.7612214,8.0,8.0,Napoli,Serie A
+Fazio Federico,DC,4.7611346,11.0,13.0,Salernitana,Serie A
+Hakimi Achraf,DL,4.7611337,21.0,28.0,Paris SG,Ligue 1
+Nadé Mickaël,DC,4.760836,9.0,9.0,Saint-Étienne,Ligue 2
+Arzamendia Santiago,DL,4.758689,1.0,1.0,Cádiz,Liga
+Mina Yerry,DC,4.7581725,1.0,1.0,Everton,Premiere League
+Coelho Grégory,DC,4.7571406,7.0,7.0,Rodez AF,Ligue 2
+Wesley Fofana Wesley,DC,4.756893,7.0,8.0,Chelsea,Premiere League
+Saveljich Esteban,DC,4.7548714,3.0,3.0,Rayo Vallecano,Liga
+Diallo Baila,DC,4.7539263,4.0,4.0,Clermont,Ligue 1
+Ousmane Camara,DC,4.75354,5.0,5.0,AJ Auxerre,Ligue 1
+Ampadu Ethan,DC,4.7500877,11.0,11.0,Spezia,Serie A
+Gorosabel Andoni,DL,4.749321,10.0,10.0,Real Sociedad,Liga
+Diarra Moussa,DC,4.7453847,11.0,11.0,Toulouse FC,Ligue 1
+Singo Stephane,DC,4.744853,11.0,13.0,Torino,Serie A
+Estève Maxime,DC,4.743955,12.0,12.0,Montpellier,Ligue 1
+Perrot Kévin,DL,4.7431192,3.0,3.0,Laval,Ligue 2
+Cozza Nicolas,DC,4.7418675,12.0,13.0,Montpellier,Ligue 1
+Guidi Dominique,DC,4.741098,11.0,11.0,SC Bastia,Ligue 2
+Carlos Augusto,DL,4.7397256,15.0,17.0,Monza,Serie A
+Fernández Mercau Nicolás,DL,4.7373056,10.0,10.0,Elche,Liga
+Skriniar Milan,DC,4.7328963,20.0,24.0,Inter,Serie A
+Viti Mattia,DC,4.732711,7.0,10.0,OGC Nice,Ligue 1
+Iglesias Juan,DC,4.731422,12.0,15.0,Getafe,Liga
+Mojica Johan,DL,4.7294054,6.0,9.0,Villarreal,Liga
+Ruan,DC,4.7282014,3.0,3.0,Sassuolo,Serie A
+Moreno Alberto,DL,4.7243986,9.0,9.0,Villarreal,Liga
+Diego Carlos,DC,4.7242465,1.0,2.0,Aston Villa,Premiere League
+Mbabu Kevin,DL,4.723634,5.0,5.0,Fulham,Premiere League
+Verdú Gonzalo,DC,4.723502,9.0,16.0,Elche,Liga
+Dest Sergiño,DL,4.7220917,9.0,15.0,Milan,Serie A
+Chardonnet Brendan,DC,4.7219605,11.0,12.0,Brest,Ligue 1
+Hernández Luis,DC,4.7210946,9.0,11.0,Cádiz,Liga
+Monfray Adrien,DC,4.719042,13.0,16.0,Grenoble,Ligue 2
+Peña Rubén,DL,4.718385,7.0,7.0,Osasuna,Liga
+Núñez Unai,DC,4.71732,10.0,11.0,Celta,Liga
+Gutiérrez Miguel,DL,4.7165723,11.0,11.0,Girona,Liga
+El Yamiq Jawad,DC,4.715732,8.0,9.0,Valladolid,Liga
+Digne Lucas,DL,4.714915,10.0,12.0,Aston Villa,Premiere League
+Elustondo Aritz,DC,4.713225,13.0,14.0,Real Sociedad,Liga
+Nianzou Tanguy,DC,4.7048454,8.0,11.0,Sevilla,Liga
+Laporte Julien,DC,4.704226,10.0,12.0,FC Lorient,Ligue 1
+Lykogiannis Charalampos,DL,4.7031384,11.0,12.0,Bologna,Serie A
+Lukeba Castello,DC,4.7028165,16.0,18.0,OL,Ligue 1
+Unai García,DC,4.701918,10.0,15.0,Osasuna,Liga
+Rami Adil,DC,4.700645,5.0,7.0,Troyes,Ligue 1
+Sala Jacopo,DL,4.6980724,1.0,1.0,Spezia,Serie A
+Valeri Emanuele,DL,4.697405,11.0,11.0,Cremonese,Serie A
+Amavi Jordan,DL,4.6955714,6.0,6.0,Getafe,Liga
+Jonathan Buatu,DC,4.693917,12.0,14.0,Valenciennes,Ligue 2
+Gomis Donatien,DC,4.689697,8.0,8.0,Guingamp,Ligue 2
+Jansson Pontus,DC,4.688576,5.0,6.0,Brentford,Premiere League
+de Winter Koni,DC,4.687692,9.0,9.0,Empoli,Serie A
+Firpo Junior,DL,4.6870155,1.0,1.0,Leeds,Premiere League
+Olaza Lucas,DL,4.685416,8.0,8.0,Valladolid,Liga
+Lovren Dejan,DC,4.683086,8.0,11.0,OL,Ligue 1
+Fredericks Ryan,DL,4.6821027,8.0,8.0,Bournemouth,Premiere League
+Bakayoko Abdoulaye,DC,4.681532,9.0,9.0,Saint-Étienne,Ligue 2
+Bednarek Jan,DC,4.6790547,7.0,13.0,Aston Villa,Premiere League
+Duterte Rémy,DL,4.678662,5.0,5.0,Laval,Ligue 2
+Delaine Thomas,DL,4.6733246,9.0,11.0,Strasbourg,Ligue 1
+Palencia Sergi,DL,4.6720185,9.0,11.0,Saint-Étienne,Ligue 2
+Lewis Rico,DL,4.6691837,1.0,2.0,Man. City,Premiere League
+Pendant Jason,DL,4.6677346,12.0,14.0,Quevilly RM,Ligue 2
+Momo Mbaye,DC,4.666532,5.0,5.0,Cádiz,Liga
+Acuña Marcos,DL,4.663601,11.0,13.0,Sevilla,Liga
+Cabal Juan,DC,4.6624775,4.0,4.0,Verona,Serie A
+Alderete Omar,DC,4.6603255,7.0,7.0,Getafe,Liga
+Duverne Jean-Kévin,DC,4.658675,9.0,10.0,Brest,Ligue 1
+Kaiky,DC,4.656735,7.0,7.0,Almería,Liga
+Blazic Miha,DC,4.655788,13.0,13.0,Angers SCO,Ligue 1
+Lirola Pol,DL,4.651958,11.0,11.0,Elche,Liga
+Bianchetti Matteo,DC,4.6518383,9.0,11.0,Cremonese,Serie A
+Donati Giulio,DL,4.6492314,7.0,7.0,Monza,Serie A
+Juan Cruz,DL,4.6490026,10.0,14.0,Osasuna,Liga
+Clerc Carlos,DL,4.646428,9.0,11.0,Elche,Liga
+Espino Alfonso,DL,4.644453,10.0,12.0,Cádiz,Liga
+Matsima Chrislain,DC,4.6440563,9.0,9.0,FC Lorient,Ligue 1
+Kalulu Gédéon,DL,4.642123,11.0,13.0,FC Lorient,Ligue 1
+Hickey Aaron,DL,4.6385574,7.0,8.0,Brentford,Premiere League
+Mendy Arial,DL,4.6313195,1.0,1.0,Clermont,Ligue 1
+Hristov Petko,DC,4.62867,8.0,8.0,Spezia,Serie A
+Kévin Keben Kévin,DC,4.628027,7.0,8.0,Toulouse FC,Ligue 1
+Birindelli Samuele,DL,4.624394,8.0,9.0,Monza,Serie A
+Abdennour Aymen,DC,4.620981,8.0,8.0,Rodez AF,Ligue 2
+Helibelton Palacios,DL,4.616633,9.0,11.0,Elche,Liga
+Jonny,DL,4.612419,8.0,11.0,Wolverhampton,Premiere League
+Walker-Peters Kyle,DL,4.6074123,9.0,10.0,Southampton,Premiere League
+Faes Wout,DC,4.606432,13.0,15.0,Leicester,Premiere League
+Desler Mikkel,DL,4.6056247,5.0,8.0,Toulouse FC,Ligue 1
+Doumbia Souleyman,DL,4.6007023,9.0,9.0,Angers SCO,Ligue 1
+Dakonam Djené,DC,4.5989814,12.0,12.0,Getafe,Liga
+Moutachy Joris,DL,4.596197,8.0,8.0,Niort,Ligue 2
+Thomas Luke,DL,4.5952687,7.0,7.0,Leicester,Premiere League
+Espinosa Bernardo,DC,4.587943,7.0,9.0,Girona,Liga
+Tsimikas Konstantinos,DL,4.586718,10.0,10.0,Liverpool,Premiere League
+Lecoeuche Quentin,DL,4.586445,13.0,16.0,Valenciennes,Ligue 2
+van Hecke Jan Paul,DC,4.5805,1.0,1.0,Brighton,Premiere League
+Azpilicueta César,DL,4.577626,9.0,10.0,Chelsea,Premiere League
+Diego González,DC,4.5774236,8.0,8.0,Elche,Liga
+Jakobs Ismail,DL,4.5750093,10.0,10.0,AS Monaco,Ligue 1
+Bonifazi Kevin,DC,4.5675035,4.0,4.0,Bologna,Serie A
+Balliu Iván,DL,4.5673594,11.0,13.0,Rayo Vallecano,Liga
+Stacey Jack,DL,4.5639887,7.0,7.0,Bournemouth,Premiere League
+Sy Lamine,DL,4.55532,3.0,6.0,SM Caen,Ligue 2
+Varane Raphaël,DC,4.553935,8.0,12.0,Man. United,Premiere League
+Pezzella Giuseppe,DL,4.5507336,5.0,5.0,Lecce,Serie A
+Vargas Thibaut,DL,4.544663,11.0,15.0,Nimes O.,Ligue 2
+Llorente Diego,DC,4.543728,5.0,6.0,Leeds,Premiere League
+Sylla Issiaga,DL,4.543561,9.0,9.0,Toulouse FC,Ligue 1
+Conti Andrea,DL,4.5428605,1.0,1.0,Sampdoria,Serie A
+Quemper Stephen,DL,4.536944,9.0,15.0,Guingamp,Ligue 2
+Montiel Gonzalo,DL,4.536438,8.0,11.0,Sevilla,Liga
+Hadjam Jaouen,DL,4.5361233,8.0,9.0,Paris FC,Ligue 2
+Kelly Lloyd,DC,4.535141,3.0,3.0,Bournemouth,Premiere League
+De Silvestri Lorenzo,DL,4.534829,7.0,7.0,Bologna,Serie A
+Abdi Ali,DL,4.53402,10.0,12.0,SM Caen,Ligue 2
+Gonçalvés Jonathan,DC,4.5330834,4.0,4.0,FC Annecy,Ligue 2
+Traoré Cheick,DL,4.5325665,10.0,10.0,Dijon FCO,Ligue 2
+Bereszynski Bartosz,DL,4.5292015,9.0,10.0,Napoli,Serie A
+Pérez Luis,DL,4.526779,8.0,8.0,Valladolid,Liga
+Marí Pablo,DC,4.5229,10.0,12.0,Monza,Serie A
+Ntim Emmanuel,DL,4.5212083,9.0,9.0,SM Caen,Ligue 2
+Abdu Conté,DL,4.5181317,9.0,9.0,Troyes,Ligue 1
+Fadiga Noah,DL,4.515664,9.0,11.0,Brest,Ligue 1
+Zanoli Alessandro,DL,4.502164,3.0,3.0,Sampdoria,Serie A
+Hendry Jack,DC,4.4974627,6.0,6.0,Cremonese,Serie A
+Burner Patrick,DL,4.4918547,11.0,11.0,Nimes O.,Ligue 2
+Chétti Ilyés,DL,4.490743,4.0,4.0,Angers SCO,Ligue 1
+Abner,DC,4.490743,7.0,8.0,Betis,Liga
+Juanpe,DC,4.488717,5.0,9.0,Girona,Liga
+Vásquez Johan,DC,4.4775405,8.0,8.0,Cremonese,Serie A
+Nacho Vidal,DL,4.476575,9.0,10.0,Osasuna,Liga
+Niakhaté Moussa,DC,4.474149,1.0,2.0,Nottingham Forest,Premiere League
+Coleman Séamus,DL,4.469553,10.0,12.0,Everton,Premiere League
+Smith Adam,DL,4.463443,10.0,10.0,Bournemouth,Premiere League
+Pirola Lorenzo,DC,4.4614935,7.0,7.0,Salernitana,Serie A
+Dari Achraf,DC,4.453407,6.0,9.0,Brest,Ligue 1
+Murillo Jeison,DC,4.452111,8.0,8.0,Sampdoria,Serie A
+Bain Dénys,DC,4.4373765,1.0,2.0,AJ Auxerre,Ligue 1
+Dawson Craig,DC,4.423383,10.0,15.0,West Ham,Premiere League
+Lochoshvili Luka,DC,4.4199443,9.0,10.0,Cremonese,Serie A
+Cook Steve,DC,4.415315,9.0,11.0,Nottingham Forest,Premiere League
+Mepham Chris,DC,4.414037,8.0,9.0,Bournemouth,Premiere League
+Mensah Gideon,DL,4.4102297,8.0,8.0,AJ Auxerre,Ligue 1
+Muñoz Aihen,DL,4.404071,5.0,6.0,Real Sociedad,Liga
+Paquiez Gaëtan,DL,4.4025717,9.0,10.0,Grenoble,Ligue 2
+Cucurella Marc,DL,4.3810635,15.0,18.0,Chelsea,Premiere League
+Diarra Mamadou,DL,4.379952,12.0,15.0,Grenoble,Ligue 2
+Touré Isaak,DC,4.379578,6.0,6.0,AJ Auxerre,Ligue 1
+van Dijk Virgil,DC,4.360134,22.0,29.0,Liverpool,Premiere League
+Tomkins James,DC,4.3595905,1.0,1.0,Crystal Palace,Premiere League
+Gueho Loup,DC,4.3445277,7.0,7.0,Paris FC,Ligue 2
+Tanganga Japhet,DC,4.342729,1.0,1.0,Tottenham,Premiere League
+Coeff Alexandre,DC,4.335035,5.0,5.0,AJ Auxerre,Ligue 1
+Cacace Liberato,DL,4.3293805,2.0,2.0,Empoli,Serie A
+Roco Enzo,DC,4.329045,9.0,9.0,Elche,Liga
+Umtiti Samuel,DC,4.3124638,10.0,11.0,Lecce,Serie A
+Mendy Batista,DC,4.308733,10.0,10.0,Angers SCO,Ligue 1
+Pereira Brayann,DL,4.306343,1.0,1.0,AJ Auxerre,Ligue 1
+Mendes Houboulang,DL,4.2994604,8.0,8.0,Almería,Liga
+Ghiglione Paolo,DL,4.296019,6.0,6.0,Cremonese,Serie A
+Godfrey Ben,DC,4.287166,1.0,1.0,Everton,Premiere League
+Zaldúa Joseba,DL,4.283995,6.0,6.0,Cádiz,Liga
+Ferrer Salvador,DL,4.280894,1.0,1.0,Spezia,Serie A
+Durand de Gevigney Mael,DC,4.271254,7.0,7.0,Nimes O.,Ligue 2
+Matufueni M'bondo Bradley,DC,4.265887,7.0,7.0,Niort,Ligue 2
+Evans Jonny,DC,4.264332,6.0,6.0,Leicester,Premiere League
+Talbi Montassar,DC,4.2627125,11.0,12.0,FC Lorient,Ligue 1
+Avinel Cédric,DC,4.2533903,7.0,9.0,AC Ajaccio,Ligue 1
+Barry Abdourahmane,DC,4.2498627,7.0,7.0,Amiens SC,Ligue 2
+Diomandé Sinaly,DC,4.2471595,9.0,9.0,OL,Ligue 1
+Koffi Erwin,DC,4.2375793,14.0,18.0,Pau FC,Ligue 2
+Daniliuc Flavius,DL,4.2304378,10.0,11.0,Salernitana,Serie A
+Mallo Hugo,DL,4.2206125,8.0,9.0,Celta,Liga
+Cissokho Till,DC,4.214805,13.0,15.0,Quevilly RM,Ligue 2
+Valery Yan,DL,4.2145276,9.0,9.0,Angers SCO,Ligue 1
+Lyanco,DC,4.211325,7.0,7.0,Southampton,Premiere League
+Koulibaly Kalidou,DC,4.202168,20.0,24.0,Chelsea,Premiere League
+Balenziaga Mikel,DL,4.189445,6.0,6.0,Athletic,Liga
+Batisse Antoine,DC,4.1594,1.0,3.0,Pau FC,Ligue 2
+Amartey Daniel,DC,4.1578517,13.0,15.0,Leicester,Premiere League
+Antov Valentin,DC,4.151411,8.0,8.0,Monza,Serie A
+Amian Kelvin,DL,4.1476593,9.0,9.0,Spezia,Serie A
+Kehrer Thilo,DL,4.1381736,8.0,9.0,West Ham,Premiere League
+Sabanovic Halid,DL,4.1241684,1.0,1.0,Angers SCO,Ligue 1
+Logan Costa Logan,DC,4.1182055,1.0,1.0,Toulouse FC,Ligue 1
+Robertson Andrew,DL,4.11654,18.0,22.0,Liverpool,Premiere League
+Castagne Timothy,DL,4.1007714,12.0,14.0,Leicester,Premiere League
+João Cancelo,DL,4.0988975,20.0,27.0,Man. City,Premiere League
+Carboni Andrea,DC,4.093942,8.0,8.0,Monza,Serie A
+Guessoum Kelyan,DC,4.0913324,8.0,9.0,Nimes O.,Ligue 2
+Caldara Mattia,DC,4.0661483,9.0,9.0,Spezia,Serie A
+Jullien Christopher,DC,4.0611615,11.0,13.0,Montpellier,Ligue 1
+Coppola Diego,DC,4.0604143,1.0,1.0,Verona,Serie A
+Marchizza Riccardo,DC,4.0557413,1.0,1.0,Sassuolo,Serie A
+Rouault Anthony,DC,4.052319,14.0,17.0,Toulouse FC,Ligue 1
+Le Goff Vincent,DL,4.0438566,12.0,13.0,FC Lorient,Ligue 1
+Angileri Fabrizio,DL,4.0376163,1.0,2.0,Getafe,Liga
+Amione Bruno,DC,4.0344906,9.0,9.0,Sampdoria,Serie A
+Sakho Mamadou,DC,4.0144353,4.0,6.0,Montpellier,Ligue 1
+Baschirotto Federico,DL,4.010035,14.0,16.0,Lecce,Serie A
+Drameh Cody,DL,3.9776874,1.0,1.0,Leeds,Premiere League
+Camara Hady,DC,3.9744954,1.0,5.0,Guingamp,Ligue 2
+Matip Joël,DC,3.9726973,7.0,9.0,Liverpool,Premiere League
+Lovato Matteo,DC,3.9353185,4.0,4.0,Salernitana,Serie A
+Larouci Yasser,DL,3.9237776,9.0,10.0,Troyes,Ligue 1
+Sosa Joaquín,DC,3.9151511,7.0,7.0,Bologna,Serie A
+Clyne Nathaniel,DL,3.9149222,7.0,7.0,Crystal Palace,Premiere League
+Alex Sandro,DL,3.8776798,12.0,14.0,Juventus,Serie A
+Senaya Marvin,DL,3.8620884,11.0,12.0,Rodez AF,Ligue 2
+Lefort Jordan,DL,3.8560596,11.0,14.0,Paris FC,Ligue 2
+Abdallah Akim,DL,3.8471835,11.0,11.0,Rodez AF,Ligue 2
+Perraud Romain,DL,3.8301873,16.0,18.0,Southampton,Premiere League
+Tchato Mbiayi Enzo,DC,3.7946713,6.0,8.0,Montpellier,Ligue 1
+Hountondji Cédric,DC,3.7927055,11.0,11.0,Angers SCO,Ligue 1
+Bradaric Domagoj,DL,3.7413323,9.0,9.0,Salernitana,Serie A
+Marrone Luca,DC,3.7268946,1.0,1.0,Monza,Serie A
+Omari Warmed,DC,3.6630895,6.0,6.0,Rennes,Ligue 1
+Mayembo Fernand,DC,3.6600108,8.0,8.0,AC Ajaccio,Ligue 1
+Manceau Vincent,DL,3.6174185,11.0,12.0,Guingamp,Ligue 2
+Ward Joel,DL,3.586723,11.0,14.0,Crystal Palace,Premiere League
+Struijk Pascal,DC,3.4859478,12.0,14.0,Leeds,Premiere League
+Boma Kévin,DC,3.4646378,1.0,1.0,Rodez AF,Ligue 2
+Cros Pierrick,DC,3.4586651,2.0,2.0,Laval,Ligue 2
+Patterson Nathan,DL,3.454489,8.0,9.0,Everton,Premiere League
+Palmer-Brown Erik,DC,3.4416134,12.0,13.0,Troyes,Ligue 1
+Baldé Thierno,DL,3.4337342,9.0,10.0,Troyes,Ligue 1
+Mouyokolo Loris,DC,3.422141,11.0,11.0,Rodez AF,Ligue 2
+Benchaa Reda,DC,3.383546,1.0,1.0,Dijon FCO,Ligue 2
+Raux-Yao Serge-Philippe,DC,3.3773568,9.0,9.0,Rodez AF,Ligue 2
+Andersen Joachim,DC,3.3717966,15.0,17.0,Crystal Palace,Premiere League
+Reca Arkadiusz,DL,3.3605058,11.0,12.0,Spezia,Serie A
+Youssouf Mohamed,DL,3.351052,10.0,10.0,AC Ajaccio,Ligue 1
+Salmier Yoann,DC,3.3216188,12.0,12.0,Troyes,Ligue 1
+Diallo Ismaël,DL,3.3210452,10.0,10.0,AC Ajaccio,Ligue 1
+Roux Baptiste,DC,3.3136938,12.0,15.0,Guingamp,Ligue 2
+Konaté Ibrahima,DC,3.260243,8.0,10.0,Liverpool,Premiere League
+Mawissa Elebi Christian,DC,3.2520595,5.0,5.0,Toulouse FC,Ligue 1
+Alexander-Arnold Trent,DL,3.2423868,22.0,28.0,Liverpool,Premiere League
+Mykolenko Vitaliy,DL,2.9467363,10.0,11.0,Everton,Premiere League
+Senesi Marcos,DC,2.847227,9.0,9.0,Bournemouth,Premiere League
+Tarkowski James,DC,2.594404,11.0,13.0,Everton,Premiere League
+Gonzalez Oumar,DC,2.5536284,7.0,8.0,AC Ajaccio,Ligue 1
+Guéhi Marc,DC,2.466165,14.0,16.0,Crystal Palace,Premiere League
+Vidal Clément,DC,2.445392,7.0,9.0,AC Ajaccio,Ligue 1
+Coady Conor,DC,2.0216994,19.0,23.0,Everton,Premiere League
